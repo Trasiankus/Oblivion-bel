@@ -17,7 +17,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AD_Help_Title_Tutorials",
-    "custom": "",
+    "custom": "Навучанне",
     "en": "Tutorials",
     "ru": "Обучение",
     "bel": "Навучанне",
@@ -25,7 +25,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Button_ClearAll",
-    "custom": "",
+    "custom": "Ачысціць усё",
     "en": "Clear All",
     "ru": "Очистить всё",
     "bel": "Ачысціць усё",
@@ -33,7 +33,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Button_Create",
-    "custom": "",
+    "custom": "Стварыць",
     "en": "Create",
     "ru": "Создать",
     "bel": "Стварыць",
@@ -49,7 +49,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Notification_NoEffectsType",
-    "custom": "",
+    "custom": "У вас няма эфектаў гэтага тыпу.",
     "en": "You don't have any effects of this type.",
     "ru": "У вас нет эффектов этого типа.",
     "bel": "У вас няма эфектаў гэтага тыпу.",
@@ -57,7 +57,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Title_Apparatus",
-    "custom": "",
+    "custom": "Апарат",
     "en": "Apparatus",
     "ru": "Аппарат",
     "bel": "Апарат",
@@ -65,7 +65,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Title_Filters",
-    "custom": "",
+    "custom": "Фільтры",
     "en": "Filters",
     "ru": "Фильтры",
     "bel": "Фільтры",
@@ -73,7 +73,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Title_Ingredients",
-    "custom": "",
+    "custom": "Інгрэдыенты",
     "en": "Ingredients",
     "ru": "Ингредиенты",
     "bel": "Інгрэдыенты",
@@ -81,7 +81,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Title_NegativeEffects",
-    "custom": "",
+    "custom": "Негатыўныя эфекты",
     "en": "Negative Effects",
     "ru": "Негативные последствия",
     "bel": "Негатыўныя наступствы",
@@ -89,7 +89,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Title_PositiveEffects",
-    "custom": "",
+    "custom": "Пазітыўныя эфекты",
     "en": "Positive Effects",
     "ru": "Положительные Эффекты",
     "bel": "Пазітыўныя Эфекты",
@@ -97,7 +97,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Birthsign_BodyText_ChooseBirthsign",
-    "custom": "",
+    "custom": "Выберыце сваё Сузор'е",
     "en": "Choose your Birthsign",
     "ru": "Выберите свой Birthsign",
     "bel": "Выберыце свой Birthsign",
@@ -105,7 +105,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Birthsign_TabTitle_BirthsignSelection",
-    "custom": "",
+    "custom": "Выбар Сузор'я",
     "en": "Birthsign Selection",
     "ru": "Выбор знака рождения",
     "bel": "Выбар знака нараджэння",
@@ -113,7 +113,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Button_General",
-    "custom": "",
+    "custom": "Асноўны",
     "en": "General",
     "ru": "Основной",
     "bel": "Асноўны",
@@ -121,7 +121,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Button_HairRootColor",
-    "custom": "",
+    "custom": "Колер каранёў валасоў",
     "en": "Hair Root Color",
     "ru": "Цвет корней волос",
     "bel": "Колер каранёў валасоў",
@@ -129,7 +129,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Button_HairTipColor",
-    "custom": "",
+    "custom": "Колер кончыкаў валасоў",
     "en": "Hair Tip Color",
     "ru": "Цвет кончиков волос",
     "bel": "Колер кончыкаў валасоў",
@@ -145,7 +145,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Category_FurStyle",
-    "custom": "",
+    "custom": "Стыль футра",
     "en": "Fur Style",
     "ru": "Стиль меха",
     "bel": "Стыль футра",
@@ -153,7 +153,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Category_GrowthStyle",
-    "custom": "",
+    "custom": "Стыль росту",
     "en": "Growth Style",
     "ru": "Стиль роста",
     "bel": "Стыль росту",
@@ -161,7 +161,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Category_HairStyle",
-    "custom": "",
+    "custom": "Прычоска",
     "en": "Hair Style",
     "ru": "Причёска",
     "bel": "Прычоска",
@@ -169,7 +169,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Tab_Head",
-    "custom": "",
+    "custom": "Галава",
     "en": "Head",
     "ru": "Голова",
     "bel": "Галава",
@@ -177,7 +177,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Title_Archetype",
-    "custom": "",
+    "custom": "Паходжанне",
     "en": "Origin",
     "ru": "Начало",
     "bel": "Пачатак",
@@ -185,7 +185,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Title_Colors",
-    "custom": "",
+    "custom": "Колеры",
     "en": "Colors",
     "ru": "Цвета",
     "bel": "Колеры",
@@ -193,7 +193,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Title_Name",
-    "custom": "",
+    "custom": "Імя",
     "en": "Name",
     "ru": "Имя",
     "bel": "Імя",
@@ -201,7 +201,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Title_Strengths",
-    "custom": "",
+    "custom": "Моцныя бакі",
     "en": "Strengths",
     "ru": "Сильные стороны",
     "bel": "Моцныя бакі",
@@ -209,7 +209,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_BodyText_Strengths",
-    "custom": "",
+    "custom": "Моцныя бакі",
     "en": "Strengths",
     "ru": "Сильные стороны",
     "bel": "Моцныя бакі",
@@ -217,7 +217,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_ButtonTitle_SkinToneAccent",
-    "custom": "",
+    "custom": "Акцэнт",
     "en": "Accent",
     "ru": "Акцент",
     "bel": "Акцэнт",
@@ -225,7 +225,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_ButtonTitle_SkinTonePrimary",
-    "custom": "",
+    "custom": "Першасны",
     "en": "Primary",
     "ru": "Основной",
     "bel": "Асноўны",
@@ -233,7 +233,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_ButtonTitle_SkinToneSecondary",
-    "custom": "",
+    "custom": "Другасны",
     "en": "Secondary",
     "ru": "Второстепенный",
     "bel": "Другарадны",
@@ -241,7 +241,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Button_Randomize",
-    "custom": "",
+    "custom": "Выпадковая знешнасць",
     "en": "Randomize Appearance",
     "ru": "Случайная внешность",
     "bel": "Выпадковая знешнасць",
@@ -249,7 +249,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Category_Bridge",
-    "custom": "",
+    "custom": "Мост",
     "en": "Bridge",
     "ru": "Мост",
     "bel": "Мост",
@@ -257,7 +257,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Category_Cheekbones",
-    "custom": "",
+    "custom": "Скулы",
     "en": "Cheekbones",
     "ru": "Скулы",
     "bel": "Скулы",
@@ -265,7 +265,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Category_Lips",
-    "custom": "",
+    "custom": "Вусны",
     "en": "Lips",
     "ru": "Губы",
     "bel": "Вусны",
@@ -273,7 +273,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Category_Nostrils",
-    "custom": "",
+    "custom": "Ноздры",
     "en": "Nostrils",
     "ru": "Ноздри",
     "bel": "Ноздры",
@@ -305,7 +305,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Bold",
-    "custom": "",
+    "custom": "Тлусты",
     "en": "Bold",
     "ru": "Жирный",
     "bel": "Тоўсты",
@@ -1705,7 +1705,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterCaves",
-    "custom": "",
+    "custom": "Пячоры",
     "en": "Caves",
     "ru": "Пещеры",
     "bel": "Пячоры",
@@ -1713,7 +1713,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterCities",
-    "custom": "",
+    "custom": "Гарады",
     "en": "Cities",
     "ru": "Города",
     "bel": "Гарады",
@@ -1721,7 +1721,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterDaedricShrines",
-    "custom": "",
+    "custom": "Даэдрычныя святыні",
     "en": "Daedric Shrines",
     "ru": "Даэдрические святилища",
     "bel": "Даэдрычныя свяцілішчы",
@@ -1729,7 +1729,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterElvenRuins",
-    "custom": "",
+    "custom": "Эльфійскія руіны",
     "en": "Elven Ruins",
     "ru": "Эльфийские руины",
     "bel": "Эльфійскія руіны",
@@ -1737,7 +1737,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterForts",
-    "custom": "",
+    "custom": "Фарты",
     "en": "Forts",
     "ru": "Форты",
     "bel": "Форты",
@@ -1745,7 +1745,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterMines",
-    "custom": "",
+    "custom": "Шахты",
     "en": "Mines",
     "ru": "Мины",
     "bel": "Міны",
@@ -1753,7 +1753,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterMountainPeaks",
-    "custom": "",
+    "custom": "Славутасці",
     "en": "Landmarks",
     "ru": "Достопримечательности",
     "bel": "Славутасці",
@@ -1761,7 +1761,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterNone",
-    "custom": "",
+    "custom": "Нічога",
     "en": "None",
     "ru": "None",
     "bel": "None",
@@ -1769,7 +1769,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterOblivionGates",
-    "custom": "",
+    "custom": "Брамы Аблівіана",
     "en": "Oblivion Gates",
     "ru": "Врата Обливиона",
     "bel": "Брама Аблівіёна",
@@ -1777,7 +1777,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterSettlements",
-    "custom": "",
+    "custom": "Паселішчы",
     "en": "Settlements",
     "ru": "Поселения",
     "bel": "Паселішчы",
@@ -1785,7 +1785,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterTaverns",
-    "custom": "",
+    "custom": "Корчмы",
     "en": "Inns",
     "ru": "Трактиры",
     "bel": "Карчмы",
@@ -1793,7 +1793,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_BodyText_AdjustSlider",
-    "custom": "",
+    "custom": "Адрэгулюйце паўзунок, пакуль лагатып не стане ледзь бачным.",
     "en": "Adjust the slider until the logo is barely visible.",
     "ru": "Отрегулируйте ползунок, пока логотип не станет едва заметным.",
     "bel": "Адрэгулюйце паўзунок, пакуль лагатып не стане ледзь бачным.",
@@ -1801,7 +1801,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_BodyText_CanModifySettingsAgain",
-    "custom": "",
+    "custom": "Вы можаце змяніць налады ў меню Налады.",
     "en": "You can modify the settings in the Options menu.",
     "ru": "Вы можете изменить в меню Настроек.",
     "bel": "Вы можаце змяніць у меню Налад.",
@@ -1809,7 +1809,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_BodyText_SampleSubtitle",
-    "custom": "",
+    "custom": "Я цябе не ведаю, і ведаць не хачу.",
     "en": "I don't know you, and I don't care to know you.",
     "ru": "Я тебя не знаю, и знать не хочу.",
     "bel": "Я цябе не ведаю, і ведаць не хачу.",
@@ -1817,7 +1817,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_Button_StartGame",
-    "custom": "",
+    "custom": "Пачаць гульню",
     "en": "Start Game",
     "ru": "Начать игру",
     "bel": "Пачаць гульню",
@@ -1825,7 +1825,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_Title_BrightnessSettings",
-    "custom": "",
+    "custom": "Налады яркасці",
     "en": "Brightness Settings",
     "ru": "Настройки яркости",
     "bel": "Налады яркасці",
@@ -1841,7 +1841,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_Title_Graphics",
-    "custom": "",
+    "custom": "Графіка",
     "en": "Graphics",
     "ru": "Графика",
     "bel": "Графіка",
@@ -1849,7 +1849,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_Title_SoundAndText",
-    "custom": "",
+    "custom": "Гук і тэкст",
     "en": "Sound & Text",
     "ru": "Звук и текст",
     "bel": "Гук і тэкст",
@@ -1881,7 +1881,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_Button_Bribe",
-    "custom": "",
+    "custom": "Хабар",
     "en": "Bribe",
     "ru": "Взятка",
     "bel": "Хабар",
@@ -1897,7 +1897,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_Info_Admire",
-    "custom": "",
+    "custom": "Захапляцца",
     "en": "Admire",
     "ru": "Восхищайтесь",
     "bel": "Захапляйцеся",
@@ -1905,7 +1905,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_Info_Boast",
-    "custom": "",
+    "custom": "Выхваляцца",
     "en": "Boast",
     "ru": "Хвастаться",
     "bel": "Хваліцца",
@@ -1913,7 +1913,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_Info_Coerce",
-    "custom": "",
+    "custom": "Прымусіць",
     "en": "Coerce",
     "ru": "Принудить",
     "bel": "Прымусіць",
@@ -1921,7 +1921,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_Info_Joke",
-    "custom": "",
+    "custom": "Жарт",
     "en": "Joke",
     "ru": "Шутка",
     "bel": "Жарт",
@@ -1937,7 +1937,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Quests_Title_Completed",
-    "custom": "",
+    "custom": "Завершана",
     "en": "Completed",
     "ru": "Завершено",
     "bel": "Завершана",
@@ -1945,7 +1945,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Quests_Title_Quests",
-    "custom": "",
+    "custom": "Заданні",
     "en": "Quests",
     "ru": "Задания",
     "bel": "Заданні",
@@ -1953,7 +1953,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Recharge_BodyText_AllGearRecharged",
-    "custom": "",
+    "custom": "Вы перазарадзілі ўвесь свой рыштунак.",
     "en": "You have recharged all your gear.",
     "ru": "Вы перезарядили всё своё снаряжение.",
     "bel": "Вы перазарадзілі ўсё сваё рыштунак.",
@@ -1961,7 +1961,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Recharge_BodyText_FilledWithSoul",
-    "custom": "",
+    "custom": "{0} душа",
     "en": "{0} soul",
     "ru": "{0} душа",
     "bel": "{0} душа",
@@ -1969,7 +1969,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Recharge_BodyText_Price",
-    "custom": "",
+    "custom": "Цана",
     "en": "Price",
     "ru": "Цена",
     "bel": "Цана",
@@ -1977,7 +1977,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Recharge_BodyText_Recharge",
-    "custom": "",
+    "custom": "Перазарадзіць",
     "en": "Recharge",
     "ru": "Пополнить",
     "bel": "Папоўніць",
@@ -1985,7 +1985,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Recharge_BodyText_RechargeAll",
-    "custom": "",
+    "custom": "Перазарадзіць усё",
     "en": "Recharge All",
     "ru": "Перезарядить всё",
     "bel": "Перазарадзіць усё",
@@ -1993,7 +1993,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_AllGearRepaired",
-    "custom": "",
+    "custom": "Вы адрамантавалі ўвесь свой рыштунак.",
     "en": "You have repaired all your gear.",
     "ru": "Ты починил(а) всё своё снаряжение.",
     "bel": "Ты паправіў(ла) усё сваё рыштунак.",
@@ -2001,7 +2001,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_BreakChance",
-    "custom": "",
+    "custom": "Верагоднасць паломкі:",
     "en": "Break Chance:",
     "ru": "Шанс пробития:",
     "bel": "Шанц прабівання:",
@@ -2009,7 +2009,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_BreakChance_High",
-    "custom": "",
+    "custom": "Высокая",
     "en": "High",
     "ru": "Высокий",
     "bel": "Высокі",
@@ -2017,7 +2017,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_BreakChance_Low",
-    "custom": "",
+    "custom": "Нізкая",
     "en": "Low",
     "ru": "Низкий",
     "bel": "Нізкі",
@@ -2025,7 +2025,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_BreakChance_Medium",
-    "custom": "",
+    "custom": "Сярэдняя",
     "en": "Medium",
     "ru": "Средний",
     "bel": "Сярэдні",
@@ -2033,7 +2033,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_BreakChance_Unbreakable",
-    "custom": "",
+    "custom": "Непарушны",
     "en": "Unbreakable",
     "ru": "Несокрушимый",
     "bel": "Непарушны",
@@ -2041,7 +2041,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Repair_Info_Quantity",
-    "custom": "",
+    "custom": "Колькасць:",
     "en": "Quantity:",
     "ru": "Количество:",
     "bel": "Колькасць:",
@@ -2049,7 +2049,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SaveLoad_Manual",
-    "custom": "",
+    "custom": "Ручное захаванне",
     "en": "Manual Save",
     "ru": "Ручное сохранение",
     "bel": "Ручное захаванне",
@@ -2057,7 +2057,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SaveLoad_Title_SaveDate",
-    "custom": "",
+    "custom": "Дата захавання",
     "en": "Save Date",
     "ru": "Дата сохранения",
     "bel": "Дата захавання",
@@ -2065,7 +2065,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SaveLoad_Title_TotalDuration",
-    "custom": "",
+    "custom": "Працягласць гульні",
     "en": "Total Game Duration",
     "ru": "Общая продолжительность игры",
     "bel": "Агульная працягласць гульні",
@@ -2073,7 +2073,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Save_Title_SaveGame",
-    "custom": "",
+    "custom": "Захаваць гульню",
     "en": "Save Game",
     "ru": "Сохранить игру",
     "bel": "Захаваць гульню",
@@ -2081,7 +2081,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Settings_Button_Load",
-    "custom": "",
+    "custom": "Загрузіць",
     "en": "Load",
     "ru": "Загрузить",
     "bel": "Загрузіць",
@@ -2089,7 +2089,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Settings_Button_Quit",
-    "custom": "",
+    "custom": "Выйсці",
     "en": "Quit",
     "ru": "Выйти",
     "bel": "Выйсці",
@@ -2097,7 +2097,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SigilStone_Button_Enchant",
-    "custom": "",
+    "custom": "Зачараваць",
     "en": "Enchant",
     "ru": "Зачаровать",
     "bel": "Зачараваць",
@@ -2105,7 +2105,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SleepWait_BodyText_HowLongSleeping",
-    "custom": "",
+    "custom": "Як доўга вы хацелі б паспаць?",
     "en": "How long would you like to sleep?",
     "ru": "Сколько вы хотите поспать?",
     "bel": "Колькі вы хочаце паспаць?",
@@ -2113,7 +2113,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SleepWait_BodyText_HowLongWaiting",
-    "custom": "",
+    "custom": "Як доўга вы хацелі б пачакаць?",
     "en": "How long would you like to wait?",
     "ru": "Сколько вы хотите подождать?",
     "bel": "Колькі вы хочаце пачакаць?",
@@ -2121,7 +2121,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_SpellPurchase_Title_Spells",
-    "custom": "",
+    "custom": "Заклёны",
     "en": "Spells",
     "ru": "Заклинания",
     "bel": "Заклінанні",
@@ -2129,7 +2129,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Trading_BodyText_Easy",
-    "custom": "",
+    "custom": "Лёгка",
     "en": "Easy",
     "ru": "Проще простого.",
     "bel": "Прасцей простага.",
@@ -2137,7 +2137,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Trading_BodyText_Hard",
-    "custom": "",
+    "custom": "Складана",
     "en": "Hard",
     "ru": "Сложно",
     "bel": "Складана",
@@ -2169,7 +2169,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Trading_Title_Trading",
-    "custom": "",
+    "custom": "Гандаль",
     "en": "Trading",
     "ru": "Торговля",
     "bel": "Гандаль",
@@ -2177,7 +2177,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Training_BodyText_CurrentSkill",
-    "custom": "",
+    "custom": "Бягучы навы",
     "en": "Current skill",
     "ru": "Текущий навык",
     "bel": "Бягучы навык",
@@ -2185,7 +2185,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Training_BodyText_TimesTrained",
-    "custom": "",
+    "custom": "Трэніровак на гэтым узроўні",
     "en": "Times trained this level",
     "ru": "Всего тренировок на этом уровне",
     "bel": "Усяго трэніровак на гэтым узроўні",
@@ -2193,7 +2193,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Training_BodyText_TrainerSkill",
-    "custom": "",
+    "custom": "Навык трэнера",
     "en": "Trainer skill",
     "ru": "Навык тренера",
     "bel": "Навык трэнера",

@@ -1,7 +1,7 @@
 [
   {
     "key": "ST_MissingEntries/LOC_ME_AcceptsYourYieldMessage",
-    "custom": "",
+    "custom": "{NPCName} прымае вашу капітуляцыю.",
     "en": "{NPCName} accepts your yield.",
     "ru": "{NPCName} принимает вашу капитуляцию.",
     "bel": "{NPCName} прымае вашу капітуляцыю.",
@@ -9,7 +9,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ActivatedNPCCalmedMessage",
-    "custom": "",
+    "custom": "{NPCName} супакоіўся і не можа адказаць.",
     "en": "{NPCName} is calmed and cannot respond.",
     "ru": "{NPCName} успокоился и не может ответить.",
     "bel": "{NPCName} супакоіўся і не можа адказаць.",
@@ -17,7 +17,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_AreaDiscovered",
-    "custom": "",
+    "custom": "Адкрыта",
     "en": "Discovered",
     "ru": "Обнаружено",
     "bel": "Знойдзена",
@@ -25,7 +25,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_AttributIsDamaged",
-    "custom": "",
+    "custom": "Ваш {AttributName} быў пашкоджаны.",
     "en": "Your {AttributName} has been damaged.",
     "ru": "Ваш {AttributName} был поврежден.",
     "bel": "Ваш {AttributName} быў пашкоджаны.",
@@ -33,7 +33,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_AttributIsDrained",
-    "custom": "",
+    "custom": "Ваш {AttributName} змяншаецца.",
     "en": "Your {AttributName} is being drained.",
     "ru": "Ваш {AttributName} истощается.",
     "bel": "Ваш {AttributName} змяншаецца.",
@@ -41,7 +41,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_BuyItem",
-    "custom": "",
+    "custom": "Купіць {Number} {ItemName} за {Amount} залатых?",
     "en": "Buy {Number} {ItemName} for {Amount} gold?",
     "ru": "Купить {Number} {ItemName} за {Amount} золота?",
     "bel": "Купіць {Number} {ItemName} за {Amount} золата?",
@@ -49,7 +49,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmBirthSign",
-    "custom": "",
+    "custom": "Вы ўпэўненыя, што хочаце нарадзіцца пад наступным сузор'ем: {BirthSign}?",
     "en": "Are you sure you want to be born under the following sign: {BirthSign}?",
     "ru": "Вы уверены, что хотите родиться под следующим знаком: {BirthSign}?",
     "bel": "Вы ўпэўнены, што хочаце нарадзіцца пад наступным знакам: {BirthSign}?",
@@ -57,7 +57,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmBuySpell",
-    "custom": "",
+    "custom": "Вы ўпэўненыя, што хочаце купіць {SpellName} за {Amount} залатых?",
     "en": "Are you sure you want to buy {SpellName} for {Amount} gold?",
     "ru": "Вы уверены, что хотите купить {SpellName} за {Amount} золота?",
     "bel": "Вы ўпэўнены, што хочаце купіць {SpellName} за {Amount} золата?",
@@ -65,7 +65,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmClassChoice",
-    "custom": "",
+    "custom": "Вы ўпэўненыя, што хочаце выбраць клас: {ClassName}?",
     "en": "Are you sure you want to select the class: {ClassName}?",
     "ru": "Вы уверены, что хотите выбрать класс: {ClassName}?",
     "bel": "Вы ўпэўнены, што хочаце выбраць клас: {ClassName}?",
@@ -73,7 +73,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmCreateClass",
-    "custom": "",
+    "custom": "Стварыць клас {ClassName}?",
     "en": "Create {ClassName} class?",
     "ru": "Создать класс {ClassName}?",
     "bel": "Стварыць клас {ClassName}?",
@@ -81,7 +81,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmRaceChoice",
-    "custom": "",
+    "custom": "Вы ўпэўненыя, што хочаце выбраць расу: {RaceName}?",
     "en": "Are you sure you want to select the race: {RaceName}?",
     "ru": "Вы уверены, что хотите выбрать расу: {RaceName}?",
     "bel": "Вы ўпэўнены, што хочаце выбраць расу: {RaceName}?",
@@ -89,7 +89,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmRechargeAll",
-    "custom": "",
+    "custom": "Перазарадзіць усе прадметы за {Amount} залатых?",
     "en": "Recharge all items for {Amount} gold?",
     "ru": "Перезарядить все предметы за {Amount} золота?",
     "bel": "Перазарадзіць усе прадметы за {Amount} золата?",
@@ -97,7 +97,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmRechargeItem",
-    "custom": "",
+    "custom": "Перазарадзіць гэты прадмет за {Amount} залатых?",
     "en": "Recharge this item for {Amount} gold?",
     "ru": "Восстановить заряд этого предмета за {Amount} золота?",
     "bel": "Аднавіць зарад гэтага прадмета за {Amount} золата?",
@@ -105,7 +105,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmRepairAll",
-    "custom": "",
+    "custom": "Адрамантаваць усе прадметы за {Amount} залатых?",
     "en": "Repair all items for {Amount} gold?",
     "ru": "Починить все предметы за {Amount} золота?",
     "bel": "Парамантаваць усе прадметы за {Amount} золата?",
@@ -113,7 +113,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ConfirmReplaceClass",
-    "custom": "",
+    "custom": "Замяніць клас {ClassName}?",
     "en": "Replace {ClassName} class?",
     "ru": "Заменить класс {ClassName}?",
     "bel": "Замяніць клас {ClassName}?",
@@ -121,7 +121,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ContractedDisease",
-    "custom": "",
+    "custom": "Вы заразіліся {DiseaseName}.",
     "en": "You have contracted {DiseaseName}",
     "ru": "Вы заразились {DiseaseName}.",
     "bel": "Вы заразіліся {DiseaseName}.",
@@ -129,7 +129,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_CostliesEffectString",
-    "custom": "",
+    "custom": "Патрабуецца навык {MagicSchoolName} ўзроўню {SkillLevel}",
     "en": "Requires {MagicSchoolName} skill of {SkillLevel}",
     "ru": "Требуется навык {MagicSchoolName} уровня {SkillLevel}",
     "bel": "Патрабуецца навык {MagicSchoolName} ўзроўню {SkillLevel}",
@@ -137,7 +137,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_DateDayAndHour",
-    "custom": "",
+    "custom": "{dayName} {hour12}:{minute} {timeIndicator}",
     "en": "{dayName} {hour12}:{minute} {timeIndicator}",
     "ru": "{dayName} {hour12}:{minute} {timeIndicator}",
     "bel": "{dayName} {hour12}:{minute} {timeIndicator}",
@@ -145,7 +145,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_DateWithHour",
-    "custom": "",
+    "custom": "{dayName}, {hour12}:{minute} {timeIndicator}, {nbDay}{nbDayUnitPart}|ordinal(one=га,two=га,few=га,other=га) {month}, 3E {Year}",
     "en": "{dayName}, {hour12}:{minute} {timeIndicator}, {nbDay}{nbDayUnitPart}|ordinal(one=st,two=nd,few=rd,other=th) of {month}, 3E {Year}",
     "ru": "{dayName}, {hour12}:{minute} {timeIndicator}, {nbDay}{nbDayUnitPart}|ordinal(one=го,two=го,few=го,other=го) {month}, 3E {Year}",
     "bel": "{dayName}, {hour12}:{minute} {timeIndicator}, {nbDay}{nbDayUnitPart}|ordinal(one=га,two=га,few=га,other=га) {month}, 3E {Year}",
@@ -153,7 +153,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_DateWithoutHour",
-    "custom": "",
+    "custom": "{nbDay}{nbDayUnitPart}|ordinal(one=га,two=га,few=га,other=га) {month} месяца, 3E {Year}",
     "en": "{nbDay}{nbDayUnitPart}|ordinal(one=st,two=nd,few=rd,other=th) of {month}, 3E {Year}",
     "ru": "{nbDay}{nbDayUnitPart}|ordinal(one=го,two=го,few=го,other=го) {month} месяца, 3E {Year}",
     "bel": "{nbDay}{nbDayUnitPart}|ordinal(one=га,two=га,few=га,other=га) {month} месяца, 3E {Year}",
@@ -161,7 +161,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_EffectResistedMessage",
-    "custom": "",
+    "custom": "Эфект {EffectName} адбіты",
     "en": "{EffectName} effect resisted",
     "ru": "Эффект {EffectName} отражён",
     "bel": "Эфект {EffectName} адбіты",
@@ -169,7 +169,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_EquipItemOnPlayerMessage",
-    "custom": "",
+    "custom": "Прадмет {ItemName} быў надзеты на гульца.",
     "en": "{ItemName} was equipped on the player",
     "ru": "Предмет {ItemName} был надет на игрока.",
     "bel": "Прадмет {ItemName} быў надзеты на гульца.",
@@ -177,7 +177,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_EssentialCharacterDown",
-    "custom": "",
+    "custom": "{NPCName} страціў прытомнасць.",
     "en": "{NPCName} is unconscious.",
     "ru": "{NPCName} без сознания.",
     "bel": "{NPCName} без прытомнасці.",
@@ -185,7 +185,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_FullHelpDialogueLine",
-    "custom": "",
+    "custom": "[{NPCName}] : {DialogueLine}",
     "en": "[{NPCName}] : {DialogueLine}",
     "ru": "[{NPCName}] : {DialogueLine}<cf>[{NPCName}] : {DialogueLine}",
     "bel": "[{NPCName}] : {DialogueLine}<cf>[{NPCName}] : {DialogueLine}",
@@ -193,7 +193,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_GenericMenu_SkillIncrease",
-    "custom": "",
+    "custom": "Майстэрства {Skill} павышана.",
     "en": "{Skill} Mastery Increased",
     "ru": "Мастерство {Skill} повышено.",
     "bel": "Майстэрства {Skill} павышана.",
@@ -201,7 +201,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_GiveAwayItem",
-    "custom": "",
+    "custom": "Аддаць {Number} {ItemName}?",
     "en": "Give away {Number} {ItemName}?",
     "ru": "Отдать {Number} {ItemName}?",
     "bel": "Аддаць {Number} {ItemName}?",
@@ -209,7 +209,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemAddedFromInventory",
-    "custom": "",
+    "custom": "{ItemNumber} {ItemName} дададзена ў інвентар гульца",
     "en": "{ItemNumber} {ItemName} added to the player's inventory",
     "ru": "{ItemNumber} {ItemName} добавлено в инвентарь игрока",
     "bel": "{ItemNumber} {ItemName} дададзена ў інвентар гульца",
@@ -217,7 +217,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemAddedToSpellList",
-    "custom": "",
+    "custom": "{ItemName} дададзена ў спіс заклёнаў гульца.",
     "en": "{ItemName} added to the player's spell list",
     "ru": "{ItemName} добавлено в список заклинаний игрока.",
     "bel": "{ItemName} дададзена ў спіс заклінанняў гульца.",
@@ -225,7 +225,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemConsumedFromQuickKey",
-    "custom": "",
+    "custom": "{ItemName} выкарыстана.",
     "en": "{ItemName} consumed.",
     "ru": "{ItemName} употреблено.",
     "bel": "{ItemName} выкарыстана.",
@@ -233,7 +233,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemEquipedFromQuickKey",
-    "custom": "",
+    "custom": "{ItemName} экіпіравана.",
     "en": "{ItemName} equipped.",
     "ru": "{ItemName} экипировано.",
     "bel": "{ItemName} экіпіравана.",
@@ -241,7 +241,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemRemovedFromInventory",
-    "custom": "",
+    "custom": "{ItemNumber} {ItemName} забрана з інвентара гульца.",
     "en": "{ItemNumber} {ItemName} removed from the player's inventory",
     "ru": "{ItemNumber} {ItemName} изъят из инвентаря игрока.",
     "bel": "{ItemNumber} {ItemName} забрана з інвентара гульца.",
@@ -249,7 +249,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemUnequipedFromQuickKey",
-    "custom": "",
+    "custom": "{ItemName} знята.",
     "en": "{ItemName} unequipped.",
     "ru": "{ItemName} снято.",
     "bel": "{ItemName} знята.",
@@ -257,7 +257,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ItemUsedFromQuickKey",
-    "custom": "",
+    "custom": "{ItemName} выкарыстана.",
     "en": "{ItemName} used.",
     "ru": "{ItemName} использован.",
     "bel": "{ItemName} выкарыстана.",
@@ -265,7 +265,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_LevelUp_ChooseAttributesToIncrease",
-    "custom": "",
+    "custom": "Выберыце 3 для павелічэнне.",
     "en": "Choose 3 Attributes to increase",
     "ru": "Выберите 3 атрибута для повышения.",
     "bel": "Выберыце 3 атрыбуты для павышэння.",
@@ -273,7 +273,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_MagicSchoolString",
-    "custom": "",
+    "custom": "Школа магіі: {MagicSchoolName}",
     "en": "Magic school: {MagicSchoolName}",
     "ru": "Школа магии: {MagicSchoolName}",
     "bel": "Школа магіі: {MagicSchoolName}",
@@ -281,7 +281,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_NPCFleeingMessage",
-    "custom": "",
+    "custom": "{NPCName} уцякае, ратуючы сваё жыццё.",
     "en": "{NPCName} is fleeing for their life.",
     "ru": "{NPCName} удирает, спасая свою жизнь.",
     "bel": "{NPCName} ўцякае, ратуючы сваё жыццё.",
@@ -289,7 +289,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_NoPickpocketAgain",
-    "custom": "",
+    "custom":  "{NPCName} ужо злавіў цябе.",
     "en": "{NPCName} has already caught you.",
     "ru": "{NPCName} уже поймал тебя.",
     "bel": "{NPCName} ужо злавіў цябе.",
@@ -297,7 +297,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_OpenWithKey",
-    "custom": "",
+    "custom": "Вы адчынілі дзверы з дапамогай {KeyName}.",
     "en": "You opened the door with {KeyName}.",
     "ru": "Вы открыли дверь с помощью {KeyName}.",
     "bel": "Вы адчынілі дзверы з дапамогай {KeyName}.",
@@ -305,7 +305,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_PoisonBowConfirmMessage",
-    "custom": "",
+    "custom": "Хочаце атруціць свой наступны стрэл з лука {BowName}?",
     "en": "Do you want to poison your next shot with the following bow: {BowName}",
     "ru": "Хотите отравить свой следующий выстрел из следующего лука: {BowName}?",
     "bel": "Хочаце атруціць свой наступны стрэл з наступнага лука: {BowName}?",
@@ -313,7 +313,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_PoisonWeaponConfirmMessage",
-    "custom": "",
+    "custom": "Вы хочаце атруціць зброю {WeaponName}?",
     "en": "Do you want to poison the following weapon: {WeaponName}",
     "ru": "Вы хотите отравить следующее оружие: {WeaponName}?",
     "bel": "Вы хочаце атруціць наступную зброю: {WeaponName}?",
@@ -321,7 +321,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_PotionCreatedMessage",
-    "custom": "",
+    "custom": "Вы стварылі {PotionNumber} новы эліксір.",
     "en": "You have created {PotionNumber} new potion",
     "ru": "Вы создали {PotionNumber} новый эликсир.",
     "bel": "Вы стварылі {PotionNumber} новы эліксір.",
@@ -329,7 +329,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_QuestAddedMessage",
-    "custom": "",
+    "custom": "Заданне дададзена: {QuestName}",
     "en": "Quest added: {QuestName}",
     "ru": "Задание добавлено: {QuestName}",
     "bel": "Заданне дададзена: {QuestName}",
@@ -337,7 +337,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_QuestCompletedMessage",
-    "custom": "",
+    "custom": "Заданне выканана: {QuestName}",
     "en": "Quest completed: {QuestName}",
     "ru": "Задание выполнено: {QuestName}",
     "bel": "Заданне выканана: {QuestName}",
@@ -345,7 +345,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_QuestUpdatedMessage",
-    "custom": "",
+    "custom": "Заданне абноўлена: {QuestName}",
     "en": "Quest updated: {QuestName}",
     "ru": "Задание обновлено: {QuestName}",
     "bel": "Заданне абноўлена: {QuestName}",
@@ -353,7 +353,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_RejectsYourYieldMessage",
-    "custom": "",
+    "custom": "{NPCName} адхіляе тваю капітуляцыю!",
     "en": "{NPCName} rejects your yield!",
     "ru": "{NPCName} отвергает твою капитуляцию!",
     "bel": "{NPCName} адхіляе тваю капітуляцыю!",
@@ -361,7 +361,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_Repair_BodyText_ConfirmRepairItem",
-    "custom": "",
+    "custom": "Адрамантаваць прадмет за {Amount} залатых?",
     "en": "Repair this item for {Amount} gold?",
     "ru": "Починить этот предмет за {Amount} золота?",
     "bel": "Парамантаваць гэты прадмет за {Amount} золата?",
@@ -369,7 +369,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SaveGameOutOfDiskSpace",
-    "custom": "",
+    "custom": "На {DeviceName} недастаткова вольнага месца. Калі ласка, выберыце іншую прыладу або выдаліце частку існуючых дадзеных.",
     "en": "{DeviceName} does not have enough disk space available. Please select another device or delete some of your existing data.",
     "ru": "На {DeviceName} недостаточно свободного места. Пожалуйста, выберите другое устройство или удалите часть существующих данных.",
     "bel": "На {DeviceName} недастаткова вольнага месца. Калі ласка, выберыце іншую прыладу або выдаліце частку існуючых дадзеных.",
@@ -377,7 +377,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SaveLoad_AltarSaveGameIsCorrupt",
-    "custom": "",
+    "custom": "Захаванне пашкоджанае, не ўдалося загрузіць.",
     "en": "The save game is corrupt, failed to load.",
     "ru": "Сохранённая игра повреждена, не удалось загрузить.",
     "bel": "Захаваная гульня пашкоджана, не ўдалося загрузіць.",
@@ -385,7 +385,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SaveLoad_AltarSaveGameOutOfDiskSpace",
-    "custom": "",
+    "custom": "На дыску недастаткова вольнага месца. Калі ласка, вызваліце месца, каб стварыць новае захаванне.",
     "en": "Disk does not have sufficient space available. Please free some space in order to create a new save.",
     "ru": "На диске недостаточно свободного места. Пожалуйста, освободите место, чтобы создать новое сохранение.",
     "bel": "На дыску недастаткова вольнага месца. Калі ласка, вызваліце месца, каб стварыць новае захаванне.",
@@ -393,7 +393,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SaveLoad_Day",
-    "custom": "",
+    "custom":"Дзень {Day}",
     "en": "Day {Day}",
     "ru": "День {Day}",
     "bel": "Дзень {Day}",
@@ -401,7 +401,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SaveLoad_Level",
-    "custom": "",
+    "custom": "Узровень {Level}",
     "en": "Level {Level}",
     "ru": "Уровень {Level}",
     "bel": "Узровень {Level}",
@@ -409,7 +409,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SaveLoad_PlayTime",
-    "custom": "",
+    "custom": "{Hours}г {Minutes}хв {Seconds}с",
     "en": "{Hours}h {Minutes}m {Seconds}s",
     "ru": "{Hours} ч {Minutes} мин {Seconds} сек",
     "bel": "{Hours} г {Minutes} хв {Seconds} сек",
@@ -417,7 +417,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ScreenshotTakenMessage",
-    "custom": "",
+    "custom": "Скрыншот: Файл {FileName} створаны.",
     "en": "ScreenShot: File {FileName} created.",
     "ru": "Скриншот: Файл {FileName} создан.",
     "bel": "Скрыншот: Файл {FileName} створаны.",
@@ -425,7 +425,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_ScriptEffect",
-    "custom": "",
+    "custom": "Эфект скрыпта",
     "en": "Script Effect",
     "ru": "Эффект скрипта",
     "bel": "Эфект скрыпта",
@@ -433,7 +433,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SellItem",
-    "custom": "",
+    "custom": "Прадаць {Number} {ItemName} за {Amount} залатых?",
     "en": "Sell {Number} {ItemName} for {Amount} gold?",
     "ru": "Продать {Number} {ItemName} за {Amount} золота?",
     "bel": "Прадаць {Number} {ItemName} за {Amount} золата?",
@@ -441,7 +441,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SewerExitScript_BeforExiting",
-    "custom": "",
+    "custom": "Перш чым выйсці з каналізацыі, вы можаце змяніць свайго персанажа.",
     "en": "Before exiting the sewers, you may revise your character.",
     "ru": "Прежде чем выйти из канализации, вы можете изменить своего персонажа.",
     "bel": "Перш чым выйсці з каналізацыі, вы можаце змяніць свайго персанажа.",
@@ -449,7 +449,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SewerExitScript_EditBirthSign",
-    "custom": "",
+    "custom": "Змяніць Сузор'е",
     "en": "Edit Birthsign",
     "ru": "Изменить знак рождения",
     "bel": "Змяніць знак нараджэння",
@@ -457,7 +457,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SewerExitScript_EditClass",
-    "custom": "",
+    "custom": "Змяніць клас",
     "en": "Edit Class",
     "ru": "Изменить класс",
     "bel": "Змяніць клас",
@@ -465,7 +465,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SewerExitScript_EditRace",
-    "custom": "",
+    "custom": "Змяніць расу",
     "en": "Edit Identity",
     "ru": "Изменить расу",
     "bel": "Змяніць расу",
@@ -473,7 +473,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SewerExitScript_ExitSewers",
-    "custom": "",
+    "custom": "Гатова - выйсці з каналізацыі",
     "en": "Finished - Exit Sewers",
     "ru": "Готово - выйти из канализации",
     "bel": "Гатова - выйсці з каналізацыі",
@@ -481,7 +481,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SkillDecreaseByLevel",
-    "custom": "",
+    "custom": "Ваш навык {SkillName} знізіўся на {Amount}.",
     "en": "Your {SkillName} skill decreased by {Amount}.",
     "ru": "Ваш навык {SkillName} снизился на {Amount}.",
     "bel": "Ваш навык {SkillName} знізіўся на {Amount}.",
@@ -489,7 +489,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SkillIncrease",
-    "custom": "",
+    "custom": "Ваш навык {SkillName} павялічаны.",
     "en": "Your {SkillName} skill increased.",
     "ru": "Ваш навык {SkillName} повышен.",
     "bel": "Ваш навык {SkillName} павышаны.",
@@ -497,7 +497,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SkillIncreaseByLevel",
-    "custom": "",
+    "custom": "Ваш навык {SkillName} павялічаны на {Amount}.",
     "en": "Your {SkillName} skill increased by {Amount}.",
     "ru": "Ваш навык {SkillName} повышен на {Amount}.",
     "bel": "Ваш навык {SkillName} павышаны на {Amount}.",
@@ -505,7 +505,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SkillIncreaseShouldMeditate",
-    "custom": "",
+    "custom": "Ваш навык {SkillName} павялічаны. Вам варта адпачыць і асэнсаваць, чаму вы навучыліся.",
     "en": "Your {SkillName} skill increased. You should rest and meditate on what you've learned.",
     "ru": "Ваш навык {SkillName} повышен. Вам следует отдохнуть и поразмыслить над тем, чему вы научились.",
     "bel": "Ваш навык {SkillName} павышаны. Вам варта адпачыць і паразважаць над тым, чаму вы навучыліся.",
@@ -513,7 +513,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SkillIncreaseToLevel",
-    "custom": "",
+    "custom": "{SkillName} павялічылася да {Amount}",
     "en": "{SkillName} increased to {Amount}",
     "ru": "{SkillName} повысился до {Amount}",
     "bel": "{SkillName} павысіўся да {Amount}",
@@ -521,7 +521,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SneakDamageMultiplier",
-    "custom": "",
+    "custom": "Скрытная атака з {MultiplierValue}x шкоды!",
     "en": "Sneak attack for {MultiplierValue}x damage!",
     "ru": "Внезапная атака с {MultiplierValue}x уроном!",
     "bel": "Раптоўная атака з {MultiplierValue}x шкодай!",
@@ -529,7 +529,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_SuccesfullyHarvestMessage",
-    "custom": "",
+    "custom": "Вы паспяхова сабралі {HarvetedItemName}.",
     "en": "You successfully harvest {HarvetedItemName}.",
     "ru": "Вы успешно собрали {HarvetedItemName}.",
     "bel": "Вы паспяхова сабралі {HarvetedItemName}.",
@@ -537,7 +537,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_TopicAdded",
-    "custom": "",
+    "custom": "Новая тэма: {TopicText}",
     "en": "New topic: {TopicText}",
     "ru": "Новая тема: {TopicText}",
     "bel": "Новая тэма: {TopicText}",
@@ -545,7 +545,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_TravelToQuestion",
-    "custom": "",
+    "custom": "Хочаце адправіцца ў {TravelTargetName}?",
     "en": "Do you want to travel to {TravelTargetName}?",
     "ru": "Хотите отправиться в {TravelTargetName}?",
     "bel": "Хочаце адправіцца ў {TravelTargetName}?",
@@ -553,7 +553,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_TriedPickPocket",
-    "custom": "",
+    "custom": "{PlayerName} паспрабаваў абчысціць кішэні {Target} і {VictimName} было ўсё роўна.",
     "en": "{PlayerName} tried to pickpocket {Target} and {VictimName} did not care",
     "ru": "{PlayerName} попытался обчистить карманы {Target}, а {VictimName} было всё равно.",
     "bel": "{PlayerName} паспрабаваў абчысціць кішэні {Target}, а {VictimName} было ўсё роўна.",
@@ -561,7 +561,7 @@
   },
   {
     "key": "ST_MissingEntries/LOC_ME_UnEquipItemOnPlayerMessage",
-    "custom": "",
+    "custom": "{ItemName} знята з гульца.",
     "en": "{ItemName} was unequipped on the player",
     "ru": "{ItemName} снято с игрока.",
     "bel": "{ItemName} знята з гульца.",
