@@ -529,7 +529,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_HairLength",
-    "custom": "",
+    "custom": "Даўжыня валасоў",
     "en": "Hair Length",
     "ru": "Длина волос",
     "bel": "Даўжыня валасоў",
@@ -537,7 +537,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Happy",
-    "custom": "",
+    "custom": "Шчаслівы",
     "en": "Happy",
     "ru": "Счастлив.",
     "bel": "Шчаслівы.",
@@ -545,7 +545,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Heavy",
-    "custom": "",
+    "custom": "Цяжкі",
     "en": "Heavy",
     "ru": "Тяжёлый",
     "bel": "Цяжкі",
@@ -753,7 +753,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Old",
-    "custom": "",
+    "custom": "Стары",
     "en": "Old",
     "ru": "Старый",
     "bel": "Стары",
@@ -849,7 +849,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Red",
-    "custom": "",
+    "custom": "Чырвоны",
     "en": "Red",
     "ru": "Красный",
     "bel": "Чырвоны",
@@ -873,7 +873,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Roots",
-    "custom": "",
+    "custom": "Карані",
     "en": "Roots",
     "ru": "Корни",
     "bel": "Карані",
@@ -881,7 +881,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Round",
-    "custom": "",
+    "custom": "Круглы",
     "en": "Round",
     "ru": "Раунд",
     "bel": "Раўнд",
@@ -945,7 +945,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SkinColor",
-    "custom": "",
+    "custom": "Адценне скуры",
     "en": "Skin Tint",
     "ru": "Оттенок кожи",
     "bel": "Адценне скуры",
@@ -953,7 +953,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SkinTone",
-    "custom": "",
+    "custom": "Тон скуры",
     "en": "Skin Tone",
     "ru": "Тон кожи",
     "bel": "Тон скуры",
@@ -985,7 +985,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SpotPatternsKhajiit",
-    "custom": "",
+    "custom": "Плямавыя ўзоры",
     "en": "Spot Patterns",
     "ru": "Замечайте закономерности.",
     "bel": "Заўважайце заканамернасці.",
@@ -993,7 +993,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Tall",
-    "custom": "",
+    "custom": "Высокі",
     "en": "Tall",
     "ru": "Высокий",
     "bel": "Высокі",
@@ -1001,7 +1001,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Thin",
-    "custom": "",
+    "custom": "Тонкі — Шырокі",
     "en": "Thin — Wide",
     "ru": "Худой — Широкий",
     "bel": "Худы — Шырокі",
@@ -1009,7 +1009,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_TiltBack",
-    "custom": "",
+    "custom": "Нахіл – Назад",
     "en": "Tilt - Back",
     "ru": "Наклон – Назад",
     "bel": "Нахіл – Назад",
@@ -1017,7 +1017,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_TiltDown",
-    "custom": "",
+    "custom": "Нахіл | Уніз — Уверх",
     "en": "Tilt | Down — Up",
     "ru": "Наклон | Вниз — Вверх",
     "bel": "Нахіл | Уніз — Уверх",
@@ -1025,7 +1025,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Together",
-    "custom": "",
+    "custom": "Разам",
     "en": "Together",
     "ru": "Вместе",
     "bel": "Разам",
@@ -1033,7 +1033,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Underbite",
-    "custom": "",
+    "custom": "Ніжні прыкус — Верхні прыкус",
     "en": "Underbite — Overbite",
     "ru": "Нижний прикус",
     "bel": "Ніжні прыкус",
@@ -1041,7 +1041,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Up",
-    "custom": "",
+    "custom": "Уверх",
     "en": "Up",
     "ru": "Вверх",
     "bel": "Уверх",
@@ -1049,7 +1049,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Wide",
-    "custom": "",
+    "custom": "Шырокі",
     "en": "Wide",
     "ru": "Широкий",
     "bel": "Шырокі",
@@ -1057,7 +1057,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Young",
-    "custom": "",
+    "custom": "Малады — Стары",
     "en": "Young — Old",
     "ru": "Молодой — Старый",
     "bel": "Малады — Стары",
@@ -1065,7 +1065,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_TabTitle_Identity",
-    "custom": "",
+    "custom": "Цела",
     "en": "Body",
     "ru": "Тело",
     "bel": "Цела",
@@ -1073,7 +1073,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Tab_FacialHair",
-    "custom": "",
+    "custom": "Расліннасць на твары",
     "en": "Facial Hair",
     "ru": "Растительность на лице",
     "bel": "Расліннасць на твары",
@@ -1081,7 +1081,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Tab_Fur",
-    "custom": "",
+    "custom": "Шэрсць",
     "en": "Fur",
     "ru": "Шерсть",
     "bel": "Поўсць",
@@ -1097,7 +1097,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Tab_Mustache",
-    "custom": "",
+    "custom": "Вусы",
     "en": "Mustache",
     "ru": "Усы",
     "bel": "Вусы",
@@ -1105,7 +1105,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Title_Archetype",
-    "custom": "",
+    "custom": "Паходжанне",
     "en": "Origin",
     "ru": "Происхождение",
     "bel": "Паходжанне",
@@ -1113,7 +1113,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterDetails_Title_Details",
-    "custom": "",
+    "custom": "Падрабязнасці",
     "en": "Details",
     "ru": "Подробности",
     "bel": "Падрабязнасці",
@@ -1121,7 +1121,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterFactions_Title_Factions",
-    "custom": "",
+    "custom": "Фракцыі",
     "en": "Factions",
     "ru": "Фракции",
     "bel": "Фракцыі",
@@ -1129,7 +1129,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterSkills_BodyText_CurrentLevel",
-    "custom": "",
+    "custom": "Бягучы ўзровень:",
     "en": "Current level:",
     "ru": "Текущий уровень:",
     "bel": "Бягучы ўзровень:",
@@ -1137,7 +1137,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterTab_BodyText_Birthsign",
-    "custom": "",
+    "custom": "Сузор'е",
     "en": "Birthsign",
     "ru": "Знак рождения",
     "bel": "Знак нараджэння",
@@ -1145,7 +1145,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterTab_BodyText_Class",
-    "custom": "",
+    "custom": "Клас",
     "en": "Class",
     "ru": "Класс",
     "bel": "Клас",
@@ -1161,7 +1161,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterTab_BodyText_Health",
-    "custom": "",
+    "custom": "Здароўе",
     "en": "Health",
     "ru": "Здоровье",
     "bel": "Здароўе",
@@ -1169,7 +1169,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterTab_BodyText_Level",
-    "custom": "",
+    "custom": "Узровень",
     "en": "Level",
     "ru": "Уровень",
     "bel": "Узровень",
@@ -1193,7 +1193,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_ButtonTitle_CustomClass",
-    "custom": "",
+    "custom": "Карыстальніцкі клас",
     "en": "Custom Class",
     "ru": "Пользовательский класс",
     "bel": "Карыстальніцкі клас",
@@ -1201,7 +1201,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_Button_Validate",
-    "custom": "",
+    "custom": "Працягнуць",
     "en": "Continue",
     "ru": "Продолжить",
     "bel": "Працягнуць",
@@ -1209,7 +1209,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_TabTitle_",
-    "custom": "",
+    "custom": "Выбар класа",
     "en": "Class Selection",
     "ru": "Выбор Класса",
     "bel": "Выбар Класа",
@@ -1217,7 +1217,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_TabTitle_ClassSelection",
-    "custom": "",
+    "custom": "Выбар класа",
     "en": "Class Selection",
     "ru": "Выбор класса",
     "bel": "Выбар класа",
@@ -1225,7 +1225,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_Tab_Combat",
-    "custom": "",
+    "custom": "Бой",
     "en": "Combat",
     "ru": "Бой",
     "bel": "Бой",
@@ -1233,7 +1233,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_Tab_Stealth",
-    "custom": "",
+    "custom": "Скрытнасць",
     "en": "Stealth",
     "ru": "Скрытность",
     "bel": "Утойлівасць",
@@ -1241,7 +1241,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_ButtonTitle_Overview",
-    "custom": "",
+    "custom": "Агляд",
     "en": "Overview",
     "ru": "Обзор",
     "bel": "Агляд",
@@ -1249,7 +1249,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_Footer_NextSpecialization",
-    "custom": "",
+    "custom": "Наступная спецыялізацыя",
     "en": "Next Specialization",
     "ru": "Следующая специализация",
     "bel": "Наступная спецыялізацыя",
@@ -1257,7 +1257,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_Footer_NextStep",
-    "custom": "",
+    "custom": "Наступны крок",
     "en": "Next Step",
     "ru": "Следующий шаг",
     "bel": "Наступны крок",
@@ -1265,7 +1265,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_Footer_PrevSpecialization",
-    "custom": "",
+    "custom": "Папярэдняя спецыялізацыя",
     "en": "Previous Specialization",
     "ru": "Предыдущая специализация",
     "bel": "Папярэдняя спецыялізацыя",
@@ -1273,7 +1273,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_Footer_PrevStep",
-    "custom": "",
+    "custom": "Папярэдні крок",
     "en": "Previous Step",
     "ru": "Предыдущий Шаг",
     "bel": "Папярэдні Крок",
@@ -1281,7 +1281,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_TabTitle_Attributes",
-    "custom": "",
+    "custom": "Атрыбуты",
     "en": "Attributes",
     "ru": "Атрибуты",
     "bel": "Атрыбуты",
@@ -1289,7 +1289,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_TabTitle_Skills",
-    "custom": "",
+    "custom": "Навыкі",
     "en": "Skills",
     "ru": "Навыки",
     "bel": "Навыкі",
@@ -1297,7 +1297,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_TabTitle_Specialization",
-    "custom": "",
+    "custom": "Спецыялізацыя",
     "en": "Specialization",
     "ru": "Специализация",
     "bel": "Спецыялізацыя",
@@ -1305,7 +1305,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CustomClass_Tab_Stealth",
-    "custom": "",
+    "custom": "Скрытнасць",
     "en": "Stealth",
     "ru": "Скрытность",
     "bel": "Утойлівасць",
@@ -1321,7 +1321,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_BodyText_NoGearToEnchant",
-    "custom": "",
+    "custom": "У вас няма рыштунку для зачаравання.",
     "en": "You don't have any gear to enchant.",
     "ru": "У вас нет снаряжения для зачарования.",
     "bel": "У вас няма рыштунку для зачаравання.",
@@ -1337,7 +1337,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_Button_SelectAttribute",
-    "custom": "",
+    "custom": "Выберыце атрыбут",
     "en": "Select Attribute",
     "ru": "Выберите Аттрибут",
     "bel": "Выберыце атрыбут",
@@ -1345,7 +1345,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_Button_SelectSkill",
-    "custom": "",
+    "custom": "Выберыце навык",
     "en": "Select Skill",
     "ru": "Выберите навык",
     "bel": "Выберыце навык",
@@ -1353,7 +1353,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_Title_SoulGems",
-    "custom": "",
+    "custom": "Камяні душ",
     "en": "Soul Gems",
     "ru": "Камни душ",
     "bel": "Камяні душ",
@@ -1361,7 +1361,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_Title_Spellmaking_Effects",
-    "custom": "",
+    "custom": "Эфекты",
     "en": "Effects",
     "ru": "Эффекты",
     "bel": "Эфекты",
@@ -1369,7 +1369,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Generic_BodyText_EnterNameHere",
-    "custom": "",
+    "custom": "Увядзіце імя тут",
     "en": "Enter Name Here",
     "ru": "Введите имя здесь",
     "bel": "Увядзіце імя тут",
@@ -1377,7 +1377,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Generic_BodyText_FavoredAttributes",
-    "custom": "",
+    "custom": "Пажаданыя атрыбуты",
     "en": "Favored Attributes",
     "ru": "Предпочитаемые атрибуты",
     "bel": "Пажаданыя атрыбуты",
@@ -1385,7 +1385,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Generic_BodyText_MajorSkills",
-    "custom": "",
+    "custom": "Асноўныя навыкі",
     "en": "Major Skills",
     "ru": "Основные навыки",
     "bel": "Асноўныя навыкі",
@@ -1393,7 +1393,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Generic_BodyText_SaveFiles",
-    "custom": "",
+    "custom": "Файлы захаванняў",
     "en": "Save files",
     "ru": "Файлы сохранения",
     "bel": "Файлы захавання",
@@ -1401,7 +1401,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Generic_Notification_NoSpecialCharacters",
-    "custom": "",
+    "custom": "Імя не можа мець спецыяльныя сімвалы.",
     "en": "Name cannot contain special characters",
     "ru": "Имя не может содержать специальные символы.",
     "bel": "Імя не можа ўтрымліваць спецыяльныя сімвалы.",
@@ -1409,7 +1409,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_HUD_InfoBox_PickupGrab",
-    "custom": "",
+    "custom": "Падняць / Схапіць",
     "en": "Pickup / Grab",
     "ru": "Поднять / Схватить",
     "bel": "Падняць / Схапіць",
@@ -1417,7 +1417,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_HUD_InfoBox_StealGrab",
-    "custom": "",
+    "custom": "Скрасці / Схапіць",
     "en": "Steal / Grab",
     "ru": "Украсть / Схватить",
     "bel": "Скрасці / Схапіць",
@@ -1425,7 +1425,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_Character",
-    "custom": "",
+    "custom": "Персанаж",
     "en": "Character",
     "ru": "Персонаж",
     "bel": "Персанаж",
@@ -1441,7 +1441,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_Inventory",
-    "custom": "",
+    "custom": "Інвентар",
     "en": "Inventory",
     "ru": "Инвентарь",
     "bel": "Інвентар",
@@ -1449,7 +1449,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_Magic",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magic",
     "ru": "Магия",
     "bel": "Магія",
@@ -1457,7 +1457,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_Map",
-    "custom": "",
+    "custom": "Карта",
     "en": "Map",
     "ru": "Карта",
     "bel": "Карта",
@@ -1465,7 +1465,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_Quest",
-    "custom": "",
+    "custom": "Заданні",
     "en": "Quests",
     "ru": "Квесты",
     "bel": "Квэсты",
@@ -1473,7 +1473,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_System",
-    "custom": "",
+    "custom": "Сістэма",
     "en": "System",
     "ru": "Система",
     "bel": "Сістэма",
@@ -1481,7 +1481,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Help_Button_ShowMore",
-    "custom": "",
+    "custom": "Паказаць больш",
     "en": "Show More",
     "ru": "Показать больше",
     "bel": "Паказаць больш",
@@ -1513,7 +1513,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_LevelUp_BodyText_Cost",
-    "custom": "",
+    "custom": "Цана:",
     "en": "Cost:",
     "ru": "Цена:",
     "bel": "Цана:",
@@ -1521,7 +1521,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_LevelUp_BodyText_VirtuesAmount",
-    "custom": "",
+    "custom": "Дабрачыннасцяў засталося",
     "en": "Virtues left",
     "ru": "Осталось добродетели",
     "bel": "Засталося цноты",
@@ -1529,7 +1529,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Load_ButtonTitle_LoadGame",
-    "custom": "",
+    "custom": "Загрузіць гульню",
     "en": "Load Game",
     "ru": "Загрузить игру",
     "bel": "Загрузіць гульню",
@@ -1537,7 +1537,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Load_Button_DeleteSave",
-    "custom": "",
+    "custom": "Выдаліць захаванне",
     "en": "Delete Save",
     "ru": "Удалить сохранение",
     "bel": "Выдаліць захаванне",
@@ -1545,7 +1545,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_MagicActiveEffect_Title_ActiveEffects",
-    "custom": "",
+    "custom": "Актыўныя эфекты",
     "en": "Active Effects",
     "ru": "Активные эффекты",
     "bel": "Актыўныя эфекты",
@@ -1577,7 +1577,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_BodyText_NoEffects",
-    "custom": "",
+    "custom": "Няма эфектаў",
     "en": "No Effects",
     "ru": "Без эффектов",
     "bel": "Без эфектаў",
@@ -1585,7 +1585,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_BodyText_SpellEffectiveness",
-    "custom": "",
+    "custom": "Эфектыўнасць заклёнаў",
     "en": "Spell Effectiveness",
     "ru": "Эффективность заклинаний",
     "bel": "Эфектыўнасць заклінанняў",
@@ -1617,7 +1617,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_Cost",
-    "custom": "",
+    "custom": "Кошт",
     "en": "Cost",
     "ru": "Стоимость",
     "bel": "Кошт",
@@ -1625,7 +1625,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_CustomSpell",
-    "custom": "",
+    "custom": "Уласны заклён",
     "en": "Custom Spell",
     "ru": "Собственное заклинание",
     "bel": "Уласнае заклінанне",
@@ -1649,7 +1649,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_Scroll",
-    "custom": "",
+    "custom": "Пракрутка",
     "en": "Scroll",
     "ru": "Прокрутка",
     "bel": "Пракрутка",
@@ -1665,7 +1665,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_SpellEffectiveness",
-    "custom": "",
+    "custom": "Эфектыўнасць заклёнаў:",
     "en": "Spell Effectiveness:",
     "ru": "Эффективность заклинаний:",
     "bel": "Эфектыўнасць заклінанняў:",
@@ -1673,7 +1673,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_Weight",
-    "custom": "",
+    "custom": "Вага",
     "en": "Weight",
     "ru": "Вес",
     "bel": "Вага",
@@ -1681,7 +1681,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterAll",
-    "custom": "",
+    "custom": "Усё",
     "en": "All",
     "ru": "Все.",
     "bel": "Усе.",
@@ -1689,7 +1689,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterAyleidRuin",
-    "custom": "",
+    "custom": "Айлейдскія руіны",
     "en": "Ayleid Ruin",
     "ru": "Айлейдская руина",
     "bel": "Айлейдская руіна",
@@ -1697,7 +1697,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Map_Tooltip_FilterCamps",
-    "custom": "",
+    "custom": "Лагеры",
     "en": "Camps",
     "ru": "Лагеря",
     "bel": "Лагеры",
