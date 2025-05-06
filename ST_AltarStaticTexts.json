@@ -713,7 +713,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Makeup",
-    "custom": "",
+    "custom": "Макіяж",
     "en": "Makeup",
     "ru": "Макияж",
     "bel": "Макіяж",
@@ -729,7 +729,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_NostrilsSmall",
-    "custom": "",
+    "custom": "Ноздры - Маленькія",
     "en": "Nostrils - Small",
     "ru": "Ноздри - Небольшие",
     "bel": "Ноздры - Невялікія",
@@ -793,7 +793,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_PatternColor",
-    "custom": "",
+    "custom": "Колер узору",
     "en": "Pattern Color",
     "ru": "Цвет узора",
     "bel": "Колер узору",
@@ -801,7 +801,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Pointed",
-    "custom": "",
+    "custom": "Востры",
     "en": "Pointed",
     "ru": "Острый",
     "bel": "Востры",
@@ -825,7 +825,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Puckered",
-    "custom": "",
+    "custom": "Зморшчаны",
     "en": "Puckered",
     "ru": "Сморщенный",
     "bel": "Зморшчаны",
@@ -889,7 +889,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Sad",
-    "custom": "",
+    "custom": "Сумны — Шчаслівы",
     "en": "Sad — Happy",
     "ru": "Грустный — Счастливый",
     "bel": "Сумны — Шчаслівы",
@@ -937,7 +937,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Short",
-    "custom": "",
+    "custom": "Нізкі — Высокі",
     "en": "Short — Tall",
     "ru": "Коротышка — Дылда",
     "bel": "Каратышка — Дылда",
@@ -961,7 +961,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Small",
-    "custom": "",
+    "custom": "Маленькі — Вялікі",
     "en": "Small — Large",
     "ru": "Маленький — Большой",
     "bel": "Маленькі — Вялікі",
@@ -1153,7 +1153,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterTab_BodyText_Fatigue",
-    "custom": "",
+    "custom": "Стаміна",
     "en": "Fatigue",
     "ru": "Усталость",
     "bel": "Стомленасць",
@@ -1177,7 +1177,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterTab_BodyText_Magicka",
-    "custom": "",
+    "custom": "Магія",
     "en": "Magicka",
     "ru": "Магия",
     "bel": "Магія",
