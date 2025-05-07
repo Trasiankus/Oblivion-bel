@@ -2177,7 +2177,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Training_BodyText_CurrentSkill",
-    "custom": "Бягучы навы",
+    "custom": "Бягучы навык",
     "en": "Current skill",
     "ru": "Текущий навык",
     "bel": "Бягучы навык",
