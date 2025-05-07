@@ -1,7 +1,7 @@
 [
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescAgility",
-    "custom": "",
+    "custom": "Апісанне Спрытнасці",
     "en": "Agility Description",
     "ru": "Описание <ит>Agility</ит>",
     "bel": "Апісанне <ит>Спрытнасці</ит>",
@@ -9,7 +9,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescEndurance",
-    "custom": "",
+    "custom": "Апісанне Трываласці",
     "en": "Endurance Description",
     "ru": "Описание выносливости",
     "bel": "Апісанне цягавітасці",
@@ -17,7 +17,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescIntelligence",
-    "custom": "",
+    "custom": "Апісанне Інтэлекту",
     "en": "Intelligence Description",
     "ru": "Описание интеллекта",
     "bel": "Апісанне інтэлекту",
@@ -25,7 +25,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescLuck",
-    "custom": "",
+    "custom": "Апісанне Удачы",
     "en": "Luck Description",
     "ru": "Описание удачи",
     "bel": "Апісанне ўдачы",
@@ -33,7 +33,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescPersonality",
-    "custom": "",
+    "custom": "Апісанне Асобы",
     "en": "Personality Description",
     "ru": "Описание Личности",
     "bel": "Апісанне Асобы",
@@ -41,7 +41,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescSpeed",
-    "custom": "",
+    "custom": "Апісанне Хуткасці",
     "en": "Speed Description",
     "ru": "Описание скорости",
     "bel": "Апісанне хуткасці",
@@ -49,7 +49,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescStrength",
-    "custom": "",
+    "custom": "Апісанне Сілы",
     "en": "Strength Description",
     "ru": "Описание силы",
     "bel": "Апісанне сілы",
@@ -57,7 +57,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeDescWillpower",
-    "custom": "",
+    "custom": "Апісанне Сілы волі",
     "en": "Willpower Description",
     "ru": "Описание силы воли",
     "bel": "Апісанне сілы волі",
@@ -65,7 +65,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameAgility",
-    "custom": "",
+    "custom": "Спрытнасць",
     "en": "Agility",
     "ru": "Ловкость",
     "bel": "Спрытнасць",
@@ -73,7 +73,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameEndurance",
-    "custom": "",
+    "custom": "Трываласць",
     "en": "Endurance",
     "ru": "Выносливость",
     "bel": "Цягавітасць",
@@ -81,7 +81,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameIntelligence",
-    "custom": "",
+    "custom": "Інтэлект",
     "en": "Intelligence",
     "ru": "Интеллект",
     "bel": "Інтэлект",
@@ -89,7 +89,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameLuck",
-    "custom": "",
+    "custom": "Удача",
     "en": "Luck",
     "ru": "Удача",
     "bel": "Удача",
@@ -97,7 +97,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNamePersonality",
-    "custom": "",
+    "custom": "Асоба",
     "en": "Personality",
     "ru": "Личность",
     "bel": "Асоба",
@@ -105,7 +105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameSpeed",
-    "custom": "",
+    "custom": "Хуткасць",
     "en": "Speed",
     "ru": "Скорость",
     "bel": "Хуткасць",
@@ -113,7 +113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameStrength",
-    "custom": "",
+    "custom": "Сіла",
     "en": "Strength",
     "ru": "Сила",
     "bel": "Сіла",
@@ -121,7 +121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sAttributeNameWillpower",
-    "custom": "",
+    "custom": "Сіла волі",
     "en": "Willpower",
     "ru": "Сила воли",
     "bel": "Сіла волі",
@@ -129,7 +129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeDescEncumbrance",
-    "custom": "",
+    "custom": "Апісанне Перагрузкі",
     "en": "Encumbrance Description",
     "ru": "Описание перегрузки",
     "bel": "Апісанне перагрузкі",
@@ -137,7 +137,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeDescFatigue",
-    "custom": "",
+    "custom": "Апісанне Стаміны",
     "en": "Fatigue Description",
     "ru": "Описание усталости",
     "bel": "Апісанне стомленасці",
@@ -145,7 +145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeDescHealth",
-    "custom": "",
+    "custom": "Апісанне Здароўя",
     "en": "Health Description",
     "ru": "Описание здоровья",
     "bel": "Апісанне здароўя",
@@ -177,7 +177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sDerivedAttributeNameHealth",
-    "custom": "",
+    "custom": "Здароўе",
     "en": "Health",
     "ru": "Здоровье",
     "bel": "Здароўе",
@@ -193,7 +193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescAcrobatics",
-    "custom": "",
+    "custom": "Апісанне Акрабатыкі",
     "en": "Acrobatics Description",
     "ru": "Описание акробатики",
     "bel": "Апісанне акрабатыкі",
@@ -201,7 +201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescAlchemy",
-    "custom": "",
+    "custom": "Апісанне Алхіміі",
     "en": "Alchemy Description",
     "ru": "Описание алхимии",
     "bel": "Апісанне алхіміі",
@@ -209,7 +209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescAlteration",
-    "custom": "",
+    "custom": "Апісанне Змены",
     "en": "Alteration Description",
     "ru": "Описание изменения",
     "bel": "Апісанне змены",
@@ -217,7 +217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescArmorer",
-    "custom": "",
+    "custom": "Апісанне Збройніка",
     "en": "Armorer Description",
     "ru": "Описание бронника",
     "bel": "Апісанне даспешніка",
@@ -225,7 +225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescAthletics",
-    "custom": "",
+    "custom": "Апісанне Атлетыкі",
     "en": "Athletics Description",
     "ru": "Описание атлетики",
     "bel": "Апісанне атлетыкі",
@@ -233,7 +233,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescBlade",
-    "custom": "",
+    "custom": "Апісанне Клінка",
     "en": "Blade Description",
     "ru": "Описание клинка",
     "bel": "Апісанне клінка",
@@ -241,7 +241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescBlock",
-    "custom": "",
+    "custom": "Апісанне Блакавання",
     "en": "Block Description",
     "ru": "Описание блока",
     "bel": "Апісанне блока",
@@ -249,7 +249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescBlunt",
-    "custom": "",
+    "custom": "Апісанне Тупой зброі",
     "en": "Blunt Description",
     "ru": "Откровенное описание",
     "bel": "Шчырае апісанне",
@@ -257,7 +257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescConjuration",
-    "custom": "",
+    "custom": "Апісанне Выкліу",
     "en": "Conjuration Description",
     "ru": "Описание школы Колдовства",
     "bel": "Апісанне школы Вядзьмарства",
@@ -265,7 +265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescDestruction",
-    "custom": "",
+    "custom": "Апісанне Разбурэння",
     "en": "Destruction Description",
     "ru": "Описание разрушений",
     "bel": "Апісанне разбурэнняў",
@@ -273,7 +273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescHandToHand",
-    "custom": "",
+    "custom": "Апісанне Рукапашнага бою",
     "en": "Hand-to-Hand Description",
     "ru": "Описание рукопашного боя",
     "bel": "Апісанне рукапашнага бою",
@@ -281,7 +281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescHeavyArmor",
-    "custom": "",
+    "custom":  "Апісанне Цяжкай брані",
     "en": "Heavy Armor Description",
     "ru": "Описание Тяжёлой Брони",
     "bel": "Апісанне Цяжкай Брані",
@@ -289,7 +289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescIllusion",
-    "custom": "",
+    "custom": "Апісанне Ілюзіі",
     "en": "Illusion Description",
     "ru": "Описание иллюзии",
     "bel": "Апісанне ілюзіі",
@@ -297,7 +297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescLightArmor",
-    "custom": "",
+    "custom": "Апісанне Лёгкай брані",
     "en": "Light Armor Description",
     "ru": "Описание лёгкой брони",
     "bel": "Апісанне лёгкай броні",
@@ -305,7 +305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescMarksman",
-    "custom": "",
+    "custom": "Апісанне Стралка",
     "en": "Marksman Description",
     "ru": "Описание Стрелка",
     "bel": "Апісанне Стралка",
@@ -313,7 +313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescMercantile",
-    "custom": "",
+    "custom": "Апісанне Гандлю",
     "en": "Mercantile Description",
     "ru": "Торговое Описание",
     "bel": "Гандлёвае Апісанне",
@@ -321,7 +321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescMysticism",
-    "custom": "",
+    "custom": "Апісанне Містыцызму",
     "en": "Mysticism Description",
     "ru": "Описание мистицизма",
     "bel": "Апісанне містыцызму",
@@ -329,7 +329,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescRestoration",
-    "custom": "",
+    "custom": "Апісанне Аднаўлення",
     "en": "Restoration Description",
     "ru": "Описание восстановления",
     "bel": "Апісанне аднаўлення",
@@ -337,7 +337,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescSecurity",
-    "custom": "",
+    "custom": "Апісанне Узлому",
     "en": "Security Description",
     "ru": "Описание безопасности",
     "bel": "Апісанне бяспекі",
@@ -345,7 +345,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescSneak",
-    "custom": "",
+    "custom": "Апісанне Скрытнасці",
     "en": "Sneak Description",
     "ru": "Скрытое описание",
     "bel": "Схаванае апісанне",
@@ -353,7 +353,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillDescSpeechcraft",
-    "custom": "",
+    "custom": "Апісанне Красамоўства",
     "en": "Speechcraft Description",
     "ru": "Описание Speechcraft",
     "bel": "Апісанне Speechcraft",
@@ -361,7 +361,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameAcrobatics",
-    "custom": "",
+    "custom": "Акрабатыка",
     "en": "Acrobatics",
     "ru": "Акробатика",
     "bel": "Акрабатыка",
@@ -369,7 +369,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameAlchemy",
-    "custom": "",
+    "custom": "Алхімія",
     "en": "Alchemy",
     "ru": "Алхимия",
     "bel": "Алхімія",
@@ -377,7 +377,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameAlteration",
-    "custom": "",
+    "custom": "Змена",
     "en": "Alteration",
     "ru": "Изменение",
     "bel": "Змена",
@@ -385,7 +385,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameArmorer",
-    "custom": "",
+    "custom": "Збройнік",
     "en": "Armorer",
     "ru": "Оружейник",
     "bel": "Збройнік",
@@ -393,7 +393,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameAthletics",
-    "custom": "",
+    "custom": "Атлетыка",
     "en": "Athletics",
     "ru": "Атлетика",
     "bel": "Атлетыка",
@@ -401,7 +401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameBlade",
-    "custom": "",
+    "custom": "Клінок",
     "en": "Blade",
     "ru": "Клинок",
     "bel": "Клінок",
@@ -409,7 +409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameBlock",
-    "custom": "",
+    "custom": "Блакаванне",
     "en": "Block",
     "ru": "Блок",
     "bel": "Блок",
@@ -417,7 +417,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameBlunt",
-    "custom": "",
+    "custom": "Тупая зброя",
     "en": "Blunt",
     "ru": "Тупой",
     "bel": "Прытуплены",
@@ -425,7 +425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameConjuration",
-    "custom": "",
+    "custom": "Выклік",
     "en": "Conjuration",
     "ru": "Призыв",
     "bel": "Прызыў",
@@ -433,7 +433,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameDestruction",
-    "custom": "",
+    "custom": "Разбурэнне",
     "en": "Destruction",
     "ru": "Разрушение",
     "bel": "Разбурэнне",
@@ -441,7 +441,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameHandToHand",
-    "custom": "",
+    "custom": "Рукапашны бой",
     "en": "Hand-to-Hand",
     "ru": "Рукопашная",
     "bel": "Рукапашная",
@@ -465,7 +465,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameLightArmor",
-    "custom": "",
+    "custom": "Лёгкая браня",
     "en": "Light Armor",
     "ru": "Лёгкая броня",
     "bel": "Лёгкая броня",
@@ -473,7 +473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameMarksman",
-    "custom": "",
+    "custom": "Стралок",
     "en": "Marksman",
     "ru": "Стрелок",
     "bel": "Стралок",
@@ -481,7 +481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameMercantile",
-    "custom": "",
+    "custom": "Гандаль",
     "en": "Mercantile",
     "ru": "Торговый",
     "bel": "Гандлёвы",
@@ -489,7 +489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameMysticism",
-    "custom": "",
+    "custom": "Містыцызм",
     "en": "Mysticism",
     "ru": "Мистицизм",
     "bel": "Містыцызм",
@@ -505,7 +505,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameSecurity",
-    "custom": "",
+    "custom": "Узлом",
     "en": "Security",
     "ru": "Безопасность",
     "bel": "Бяспека",
@@ -513,7 +513,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameSneak",
-    "custom": "",
+    "custom": "Скрытнасць",
     "en": "Sneak",
     "ru": "Подкрасться",
     "bel": "Падкраданне",
@@ -521,7 +521,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameSpeechcraft",
-    "custom": "",
+    "custom": "Красамоўства",
     "en": "Speechcraft",
     "ru": "Красноречие",
     "bel": "Красноўства",
@@ -529,7 +529,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sTraitNameAggression",
-    "custom": "",
+    "custom": "Агрэсія",
     "en": "Aggression",
     "ru": "Агрессия",
     "bel": "Агрэсія",
@@ -537,7 +537,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sTraitNameConfidence",
-    "custom": "",
+    "custom": "Упэўненасць",
     "en": "Confidence",
     "ru": "Уверенность",
     "bel": "Упэўненасць",
@@ -545,7 +545,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sTraitNameEnergy",
-    "custom": "",
+    "custom": "Энергія",
     "en": "Energy",
     "ru": "Энергия",
     "bel": "Энергія",
@@ -553,7 +553,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sTraitNameResponsibility",
-    "custom": "",
+    "custom": "Адказнасць",
     "en": "Responsibility",
     "ru": "Ответственность.",
     "bel": "Адказнасць.",
@@ -561,7 +561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sVirtueNameBounty",
-    "custom": "",
+    "custom": "Узнагарода",
     "en": "Bounty",
     "ru": "Награда",
     "bel": "Узнагарода",
@@ -577,7 +577,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sVirtueNameInfamy",
-    "custom": "",
+    "custom": "Знявага",
     "en": "Infamy",
     "ru": "Бесчестие",
     "bel": "Знявага",
@@ -585,7 +585,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_CombatFormulas_sActivateCreatureCalmed",
-    "custom": "",
+    "custom": "Істота супакоена і не можа адказаць.",
     "en": "The creature is calmed and cannot respond.",
     "ru": "Существо успокоено и не может отвечать.",
     "bel": "Істота супакоена і не можа адказваць.",
@@ -593,7 +593,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_CombatFormulas_sActivateNPCCalmed",
-    "custom": "",
+    "custom": "супакоены і не можа адказаць.",
     "en": "is calmed and cannot respond.",
     "ru": "успокоен и не может ответить.",
     "bel": "супакоены і не можа адказаць.",
@@ -601,7 +601,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_CombatFormulas_sNormalWeaponsResisted",
-    "custom": "",
+    "custom": "Ваша атака не мае ніякага эфекту.",
     "en": "Your attack has no effect.",
     "ru": "Твоя атака не возымела эффекта.",
     "bel": "Твая атака не мела эфекту.",
@@ -609,7 +609,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ContainerMenu_Merchantdoesnothaveenoughgold",
-    "custom": "",
+    "custom": "У гандляра недастаткова золата.",
     "en": "Merchant does not have enough gold.",
     "ru": "У торговца недостаточно золота.",
     "bel": "У гандляра недастаткова золата.",
@@ -617,7 +617,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItemList_sMagicCostliestEffectRequires",
-    "custom": "",
+    "custom": "Патрабуе",
     "en": "Requires",
     "ru": "Требуется",
     "bel": "Патрабуецца",
@@ -625,7 +625,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItemList_sMagicCostliestEffectSkillOf",
-    "custom": "",
+    "custom": "Навык",
     "en": " Skill of",
     "ru": "Навык",
     "bel": "Навык",
@@ -633,7 +633,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItemList_sMagicSchool",
-    "custom": "",
+    "custom": "Школа магіі",
     "en": "Magic School",
     "ru": "Школа магии",
     "bel": "Школа магіі",
@@ -641,7 +641,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemAbsorb",
-    "custom": "",
+    "custom": "Паглынуць {0}",
     "en": "Absorb {0}",
     "ru": "Поглотить {0}",
     "bel": "Паглынуць {0}",
@@ -649,7 +649,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemCreateLock",
-    "custom": "",
+    "custom": "Стварыць {0} замок",
     "en": "Create {0} lock",
     "ru": "Создать {0} замок",
     "bel": "Стварыць {0} замак",
@@ -657,7 +657,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemDamage",
-    "custom": "",
+    "custom": "Урон {0}",
     "en": "Damage {0}",
     "ru": "Урон {0}",
     "bel": "Урон {0}",
@@ -665,7 +665,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemDrain",
-    "custom": "",
+    "custom": "Высмактаць {0}",
     "en": "Drain {0}",
     "ru": "Осушить {0}",
     "bel": "Асушыць {0}",
@@ -673,7 +673,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemFeet",
-    "custom": "",
+    "custom": "фут",
     "en": "ft",
     "ru": "фут",
     "bel": "фут",
@@ -681,7 +681,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemFor",
-    "custom": "",
+    "custom": "для",
     "en": "for",
     "ru": "для",
     "bel": "для",
@@ -689,7 +689,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemFortify",
-    "custom": "",
+    "custom": "Умацаваць {0}",
     "en": "Fortify {0}",
     "ru": "Укрепить {0}",
     "bel": "Умацаваць {0}",
@@ -697,7 +697,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemIn",
-    "custom": "",
+    "custom": "у",
     "en": "in",
     "ru": "в",
     "bel": "у",
@@ -705,7 +705,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemLock",
-    "custom": "",
+    "custom": "Замок",
     "en": "Lock",
     "ru": "Замок",
     "bel": "Замак",
@@ -713,7 +713,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemOn",
-    "custom": "",
+    "custom": "на",
     "en": "on",
     "ru": "на",
     "bel": "на",
@@ -721,7 +721,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemPointsPlural",
-    "custom": "",
+    "custom": "ачк",
     "en": "pts",
     "ru": "очков",
     "bel": "пунктаў",
@@ -729,7 +729,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemPointsSingular",
-    "custom": "",
+    "custom": "ачко",
     "en": "pt",
     "ru": "оч.",
     "bel": "ач.",
@@ -737,7 +737,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemRestore",
-    "custom": "",
+    "custom": "Аднавіць {0}",
     "en": "Restore {0}",
     "ru": "Восстановить {0}",
     "bel": "Аднавіць {0}",
@@ -745,7 +745,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemSecondsPlural",
-    "custom": "",
+    "custom": "сек.",
     "en": "secs",
     "ru": "сек.",
     "bel": "сек.",
@@ -753,7 +753,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemSecondsSingular",
-    "custom": "",
+    "custom": "сек.",
     "en": "sec",
     "ru": "сек.",
     "bel": "сек.",
@@ -761,7 +761,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicEffectItemUpToLevel",
-    "custom": "",
+    "custom": "да ўзроўню",
     "en": "up to level",
     "ru": "до уровня",
     "bel": "да ўзроўню",
@@ -769,7 +769,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_EffectItem_sMagicRangeStrike",
-    "custom": "",
+    "custom": "Удар",
     "en": "Strike",
     "ru": "Удар",
     "bel": "Удар",
@@ -777,7 +777,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ExtraDataObjects_sLockLevelNameAverage",
-    "custom": "",
+    "custom": "Сярэдні",
     "en": "Average",
     "ru": "Средний",
     "bel": "Сярэдні",
@@ -785,7 +785,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ExtraDataObjects_sLockLevelNameEasy",
-    "custom": "",
+    "custom": "Лёгкі",
     "en": "Easy",
     "ru": "Легкий",
     "bel": "Лёгкі",
@@ -793,7 +793,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ExtraDataObjects_sLockLevelNameHard",
-    "custom": "",
+    "custom": "Складаны",
     "en": "Hard",
     "ru": "Сложный",
     "bel": "Складаны",
@@ -801,7 +801,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ExtraDataObjects_sLockLevelNameImpossible",
-    "custom": "",
+    "custom": "Немагчымы",
     "en": "Impossible",
     "ru": "Невозможный",
     "bel": "Немагчымы",
@@ -809,7 +809,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ExtraDataObjects_sLockLevelNameVeryEasy",
-    "custom": "",
+    "custom": "Вельмі лёгкі",
     "en": "Very Easy",
     "ru": "Очень простой",
     "bel": "Вельмі просты",
@@ -817,7 +817,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ExtraDataObjects_sLockLevelNameVeryHard",
-    "custom": "",
+    "custom": "Вельмі складаны",
     "en": "Very Hard",
     "ru": "Очень сложный",
     "bel": "Вельмі складаны",
@@ -825,7 +825,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicEffectRangeSelf",
-    "custom": "",
+    "custom": "{0} на сябе",
     "en": "{0} on Self",
     "ru": "{0} на себя",
     "bel": "{0} на сябе",
@@ -833,7 +833,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicEffectRangeStrike",
-    "custom": "",
+    "custom": "{0} пры ўдары",
     "en": "{0} on Strike",
     "ru": "{0} при ударе",
     "bel": "{0} пры ўдары",
@@ -841,7 +841,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicEffectRangeTarget",
-    "custom": "",
+    "custom": "{0} на цэль",
     "en": "{0} on Target",
     "ru": "{0} на цель",
     "bel": "{0} на цэль",
@@ -849,7 +849,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicEffectRangeTouch",
-    "custom": "",
+    "custom": "{0} пры дотыку",
     "en": "{0} on Touch",
     "ru": "{0} при касании",
     "bel": "{0} пры дакрананні",
@@ -857,7 +857,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicItem_sMagicCastInsufficientMagicka",
-    "custom": "",
+    "custom": "У вас недастаткова Магіі.",
     "en": "You don't have enough Magicka",
     "ru": "У вас недостаточно магии.",
     "bel": "У вас недастаткова магіі.",
@@ -865,7 +865,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicItem_sMagicCastInsufficientSkill",
-    "custom": "",
+    "custom": "Ваш узровень навыку занадта нізкі.",
     "en": "Your Skill level is too low",
     "ru": "Ваш уровень навыка слишком низкий.",
     "bel": "Ваш узровень навыку занадта нізкі.",
@@ -881,7 +881,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicItem_sMagicCastPowerUsed",
-    "custom": "",
+    "custom": "Можна выкарыстаць толькі раз на дзень.",
     "en": "Can only be used once a day",
     "ru": "Можно использовать только раз в день.",
     "bel": "Можна выкарыстоўваць толькі раз на дзень.",
@@ -889,7 +889,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicItem_sMagicCastRangedUnderwater",
-    "custom": "",
+    "custom": "Пад вадой нельга ўжываць дальнабойныя заклёны.",
     "en": "You cannot cast ranged spells underwater",
     "ru": "Под водой нельзя применять заклинания дальнего боя.",
     "bel": "Пад вадой нельга ўжываць загаворы далёкага бою.",
@@ -905,7 +905,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicCastConstant",
-    "custom": "",
+    "custom": "Адзенне",
     "en": "Apparel",
     "ru": "Одежда",
     "bel": "Адзенне",
@@ -913,7 +913,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicCastOnce",
-    "custom": "",
+    "custom": "Скрутак",
     "en": "Scroll",
     "ru": "Прокрутить",
     "bel": "Пракруціць",
@@ -921,7 +921,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicCastWhenStrikes",
-    "custom": "",
+    "custom": "Зброя",
     "en": "Weapon",
     "ru": "Оружие",
     "bel": "Зброя",
@@ -929,7 +929,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicCastWhenUsed",
-    "custom": "",
+    "custom": "Посах",
     "en": "Staff",
     "ru": "Персонал",
     "bel": "Персанал",
@@ -937,7 +937,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicProjectileTypeBall",
-    "custom": "",
+    "custom": "Шар",
     "en": "Ball",
     "ru": "Мяч",
     "bel": "Мяч",
@@ -945,7 +945,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicProjectileTypeBolt",
-    "custom": "",
+    "custom": "Страла",
     "en": "Bolt",
     "ru": "Болт",
     "bel": "Болт",
@@ -953,7 +953,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicProjectileTypeFog",
-    "custom": "",
+    "custom": "Туман",
     "en": "Fog",
     "ru": "Туман",
     "bel": "Туман",
@@ -961,7 +961,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicProjectileTypeSpray",
-    "custom": "",
+    "custom": "Спрэй",
     "en": "Spray",
     "ru": "Распылить",
     "bel": "Распыліць",
@@ -969,7 +969,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicRangeSelf",
-    "custom": "",
+    "custom": "Сябе",
     "en": "Self",
     "ru": "Себя",
     "bel": "Сябе",
@@ -977,7 +977,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicRangeTarget",
-    "custom": "",
+    "custom": "Цэль",
     "en": "Target",
     "ru": "Цель",
     "bel": "Цэль",
@@ -985,7 +985,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicRangeTouch",
-    "custom": "",
+    "custom": "Дотык",
     "en": "Touch",
     "ru": "Прикоснуться.",
     "bel": "Дакрануцца.",
@@ -993,7 +993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolAlteration",
-    "custom": "",
+    "custom": "Змена",
     "en": "Alteration",
     "ru": "Изменение",
     "bel": "Змена",
@@ -1001,7 +1001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolConjuration",
-    "custom": "",
+    "custom": "Выклік",
     "en": "Conjuration",
     "ru": "Колдовство",
     "bel": "Вядзьмарства",
@@ -1009,7 +1009,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolDestruction",
-    "custom": "",
+    "custom": "Разбурэнне",
     "en": "Destruction",
     "ru": "Разрушение",
     "bel": "Разбурэнне",
@@ -1017,7 +1017,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolIllusion",
-    "custom": "",
+    "custom": "Ілюзія",
     "en": "Illusion",
     "ru": "Иллюзия",
     "bel": "Ілюзія",
@@ -1025,7 +1025,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolMysticism",
-    "custom": "",
+    "custom": "Містыцызм",
     "en": "Mysticism",
     "ru": "Мистицизм",
     "bel": "Містыцызм",
@@ -1057,7 +1057,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypeEnchantment",
-    "custom": "",
+    "custom": "Зачараванне",
     "en": "Enchantment",
     "ru": "Зачарование",
     "bel": "Зачараванне",
@@ -1065,7 +1065,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypeLesserPower",
-    "custom": "",
+    "custom": "Меншая сіла",
     "en": "Lesser Power",
     "ru": "Меньшая сила",
     "bel": "Меншая сіла",
@@ -1073,7 +1073,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypePoison",
-    "custom": "",
+    "custom": "Яд",
     "en": "Poison",
     "ru": "Яд",
     "bel": "Яд",
@@ -1081,7 +1081,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypePotion",
-    "custom": "",
+    "custom": "Зелле",
     "en": "Potion",
     "ru": "Зелье",
     "bel": "Зелле",
@@ -1089,7 +1089,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypePower",
-    "custom": "",
+    "custom": "Сіла",
     "en": "Power",
     "ru": "Сила",
     "bel": "Сіла",
@@ -1097,7 +1097,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypeSpell",
-    "custom": "",
+    "custom": "Заклён",
     "en": "Spell",
     "ru": "Заклинание",
     "bel": "Загавор",
@@ -1105,7 +1105,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypeWortcraft",
-    "custom": "",
+    "custom": "Паяданне інгрэдыентаў",
     "en": "Wortcraft",
     "ru": "Wortcraft<cf>— Мастерство слова.",
     "bel": "Wortcraft<cf>— Майстэрства слова.",
@@ -1113,7 +1113,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAddAnEffect",
-    "custom": "",
+    "custom": "Вы павінны дадаць хаця б адзін эфект, каб стварыць заклён.",
     "en": "You must add at least one effect in order to create a spell.",
     "ru": "Чтобы создать заклинание, необходимо добавить хотя бы один эффект.",
     "bel": "Каб стварыць загавор, неабходна дадаць хаця б адзін эфект.",
@@ -1121,7 +1121,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAddIngredient",
-    "custom": "",
+    "custom": "Дадаць інгрэдыент",
     "en": "Add Ingredient",
     "ru": "Добавить ингредиент",
     "bel": "Дадаць інгрэдыент",
@@ -1129,7 +1129,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAddItemtoInventory",
-    "custom": "",
+    "custom": "дададзена ў інвентар гульца.",
     "en": "added to the player's inventory",
     "ru": "Добавлено в инвентарь игрока.",
     "bel": "Дададзена ў інвентар гульца.",
@@ -1145,7 +1145,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAddItemtoSpellList",
-    "custom": "",
+    "custom": "дададзена ў спіс заклёнаў гульца.",
     "en": "added to the player's spell list",
     "ru": "Добавлено в список заклинаний игрока.",
     "bel": "Дададзена ў спіс загавораў гульца.",
@@ -1153,7 +1153,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAddedEffects",
-    "custom": "",
+    "custom": "Дададзеныя эфекты",
     "en": "Added Effects",
     "ru": "Добавленные эффекты",
     "bel": "Дададзеныя эфекты",
@@ -1161,7 +1161,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAge",
-    "custom": "",
+    "custom": "Узрост",
     "en": "Age",
     "ru": "Возраст",
     "bel": "Узрост",
@@ -1169,7 +1169,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAgilityDescription",
-    "custom": "",
+    "custom": "Патрабуецца апісанне гульнявога свету.",
     "en": "Need a gamesetting description.",
     "ru": "Требуется описание игрового мира.",
     "bel": "Патрабуецца апісанне гульнявога свету.",
@@ -1177,7 +1177,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAll",
-    "custom": "",
+    "custom": "Усе",
     "en": "All",
     "ru": "Все.",
     "bel": "Усе.",
@@ -1185,7 +1185,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAltarSaveGameOutOfDiskSpace",
-    "custom": "",
+    "custom": "На дыску не хапае месца. Калі ласка, выдаліце частку існуючых даных, каб вызваліць месца.",
     "en": "Disk doesn't have sufficient space avaliable. Please delete some existing data to free some space.",
     "ru": "На диске недостаточно свободного места. Пожалуйста, удалите существующие данные, чтобы освободить место.",
     "bel": "На дыску недастаткова вольнага месца. Калі ласка, выдаліце існуючыя дадзеныя, каб вызваліць месца.",
@@ -1193,7 +1193,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAnimationCanNotEquipArmor",
-    "custom": "",
+    "custom": "Вы не можаце мяняць браню падчас атакі.",
     "en": "You cannot change armor while attacking.",
     "ru": "Вы не можете менять броню во время атаки.",
     "bel": "Вы не можаце мяняць браню падчас атакі.",
@@ -1201,7 +1201,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAnimationCanNotEquipWeapon",
-    "custom": "",
+    "custom": "Вы не можаце мяняць зброю падчас атакі.",
     "en": "You cannot change weapons while attacking.",
     "ru": "Нельзя менять оружие во время атаки.",
     "bel": "Нельга мяняць зброю падчас атакі.",
@@ -1209,7 +1209,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAnimationCanNotUnequip",
-    "custom": "",
+    "custom": "Вы не можаце мяняць зброю падчас атакі.",
     "en": "You cannot change weapons while attacking.",
     "ru": "Нельзя менять оружие во время атаки.",
     "bel": "Нельга мяняць зброю падчас атакі.",
@@ -1217,7 +1217,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sApparelAboutBreak",
-    "custom": "",
+    "custom": "Вашае адзенне вось-вось зламаецца.",
     "en": "Your apparel is about to break.",
     "ru": "Твоя одежда вот-вот порвётся.",
     "bel": "Тваё адзенне вось-вось парвецца.",
@@ -1225,7 +1225,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sApparelBreak",
-    "custom": "",
+    "custom": "Вашае адзенне зламанае.",
     "en": "Your Apparel is broken.",
     "ru": "Ваша одежда сломана.",
     "bel": "Ваша адзенне зламанае.",
@@ -1241,7 +1241,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sArmor",
-    "custom": "",
+    "custom": "Браня",
     "en": "Armor",
     "ru": "Броня",
     "bel": "Броня",
@@ -1249,7 +1249,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAttributeDamaged",
-    "custom": "",
+    "custom": "пашкоджана",
     "en": "has been damaged",
     "ru": "был повреждён",
     "bel": "была пашкоджана",
@@ -1257,7 +1257,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAttributeDrained",
-    "custom": "",
+    "custom": "высмоктваецца",
     "en": "is being drained",
     "ru": "Обескровливается.",
     "bel": "Абяскроўліваецца.",
@@ -1265,7 +1265,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAttributeText",
-    "custom": "",
+    "custom": "Атрыбут",
     "en": "Attribute",
     "ru": "Атрибут",
     "bel": "Атрыбут",
@@ -1273,7 +1273,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAutoAttempt",
-    "custom": "",
+    "custom": "Аўтаматычная спроба",
     "en": "Auto Attempt",
     "ru": "Автопопытка",
     "bel": "Аўтаспроба",
@@ -1281,7 +1281,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAutoLoading",
-    "custom": "",
+    "custom": "Аўтазагрузка...",
     "en": "Autoloading...",
     "ru": "Автозагрузка...",
     "bel": "Аўтазагрузка...",
@@ -1289,7 +1289,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAutoSaveDisabledDueToLackOfSpace",
-    "custom": "",
+    "custom": "Месца для захавання запоўнена. Аўтазахаванне адключана.",
     "en": "Save location full. Disabling Autosave.",
     "ru": "Место для сохранения заполнено. Автосохранение отключено.",
     "bel": "Месца для захавання запоўнена. Аўтазахаванне адключана.",
@@ -1297,7 +1297,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sAutoSaving",
-    "custom": "",
+    "custom": "Аўтазахаванне..",
     "en": "Autosaving...",
     "ru": "Идёт автосохранение...",
     "bel": "Ідзе аўтазахаванне...",
@@ -1305,7 +1305,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBack",
-    "custom": "",
+    "custom": "Назад",
     "en": "Back",
     "ru": "Назад",
     "bel": "Назад",
@@ -1313,7 +1313,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBald",
-    "custom": "",
+    "custom": "Лысы",
     "en": "Bald",
     "ru": "Лысый",
     "bel": "Лысы",
@@ -1321,7 +1321,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBeard",
-    "custom": "",
+    "custom": "Барада",
     "en": "Beard",
     "ru": "Борода",
     "bel": "Барада",
@@ -1425,7 +1425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sBrow",
-    "custom": "",
+    "custom": "Брыво",
     "en": "Brow",
     "ru": "Бровь",
     "bel": "Брыво",
