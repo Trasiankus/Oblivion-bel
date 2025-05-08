@@ -1,7 +1,7 @@
 [
   {
     "key": "ST_AltarStaticTexts/LOC_AD_Character_BodyText_LevelingHint",
-    "custom": "",
+    "custom": "Вы павінны выкарыстоўваць ложак, каб паспаць і паразважаць над тым, што вы даведаліся, каб павысіць свой узровень.",
     "en": "You must use a bed to sleep and meditate on what you've learned in order to increase your level.",
     "ru": "Вы должны использовать кровать, чтобы поспать и поразмышлять над тем, что вы узнали, чтобы повысить свой уровень.",
     "bel": "Вы павінны выкарыстоўваць ложак, каб паспаць і паразважаць над тым, што вы даведаліся, каб павысіць свой узровень.",
@@ -9,7 +9,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AD_HUD_BodyText_DoorToDestination",
-    "custom": "",
+    "custom": "{DoorName} у {DestinationName}",
     "en": "{DoorName} to {DestinationName}",
     "ru": "{DoorName} в {DestinationName}",
     "bel": "{DoorName} у {DestinationName}",
@@ -41,7 +41,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Alchemy_Button_MustContainAllSelectedFilters",
-    "custom": "",
+    "custom": "Павінны ўтрымлівацца ўсе выбраныя фільтры ({NumFilters})",
     "en": "Must Contain All Selected Filters ({NumFilters})",
     "ru": "Должны содержаться все выбранные фильтры ({NumFilters})",
     "bel": "Павінны ўтрымлівацца ўсе выбраныя фільтры ({NumFilters})",
@@ -137,7 +137,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreationRace_Button_Tips",
-    "custom": "",
+    "custom": "Падказкі",
     "en": "Tips",
     "ru": "Подсказки",
     "bel": "Падказкі",
@@ -281,7 +281,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Category_Sellion",
-    "custom": "",
+    "custom": "Пераноссе",
     "en": "Sellion",
     "ru": "Селлион",
     "bel": "Селіён",
@@ -289,7 +289,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Apart",
-    "custom": "",
+    "custom": "Паасобку — Разам",
     "en": "Apart — Together",
     "ru": "Врозь — Вместе",
     "bel": "Паасобку — Разам",
@@ -297,7 +297,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Backward",
-    "custom": "",
+    "custom": "Назад — Наперад",
     "en": "Backward — Forward",
     "ru": "Назад — Вперёд",
     "bel": "Назад — Наперад",
@@ -313,7 +313,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_BridgeShallow",
-    "custom": "",
+    "custom": "Мост - Мелкаводдзе",
     "en": "Bridge - Shallow",
     "ru": "Мост - Мелководный",
     "bel": "Мост - Плыткі",
@@ -321,7 +321,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_BridgeShort",
-    "custom": "",
+    "custom": "Мост - Кароткі",
     "en": "Bridge - Short",
     "ru": "Мост - Кратчайший",
     "bel": "Мост - Найкарацейшы",
@@ -329,7 +329,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Bright",
-    "custom": "",
+    "custom": "Яркі",
     "en": "Bright",
     "ru": "Яркий",
     "bel": "Яркі",
@@ -337,7 +337,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_BrowRidgeLow",
-    "custom": "",
+    "custom": "Надброўныя Дугі | Нізкія — Высокія",
     "en": "Brow Ridge | Low — High",
     "ru": "Надбровные Дуги | Низкие — Высокие",
     "bel": "Надброўныя Дугі | Нізкія — Высокія",
@@ -345,7 +345,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_BrownosechinRatio",
-    "custom": "",
+    "custom": "Брыво | Нос | Падбародак",
     "en": "Brow | Nose | Chin",
     "ru": "Бровь | Нос | Подбородок",
     "bel": "Брыво | Нос | Падбародак",
@@ -353,7 +353,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Bruised",
-    "custom": "",
+    "custom": "Пакалечаны",
     "en": "Bruised",
     "ru": "В синяках",
     "bel": "У сіняках",
@@ -361,7 +361,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_CheekBlushLight",
-    "custom": "",
+    "custom": "Румяны | Светла-чырвоны",
     "en": "Cheek Blush | Light — Red",
     "ru": "Румяна | Светло-красный",
     "bel": "Румяны | Светла-чырвоны",
@@ -369,7 +369,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_CheekbonesPale",
-    "custom": "",
+    "custom": "Скулы | Бледныя — Румяныя",
     "en": "Cheekbones | Pale — Flushed",
     "ru": "Скулы | Бледные — Румяные",
     "bel": "Скулы | Бледныя — Румяныя",
@@ -377,7 +377,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Concave",
-    "custom": "",
+    "custom": "Увагнуты — Выпуклы",
     "en": "Concave — Convex",
     "ru": "Вогнутый — Выпуклый",
     "bel": "Увагнуты — Выпуклы",
@@ -385,7 +385,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Convex",
-    "custom": "",
+    "custom": "Выпуклы",
     "en": "Convex",
     "ru": "Выпуклый",
     "bel": "Выпуклы",
@@ -393,7 +393,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Dark",
-    "custom": "",
+    "custom": "Цёмны",
     "en": "Dark",
     "ru": "Тёмный",
     "bel": "Цёмны",
@@ -401,15 +401,15 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Deep",
-    "custom": "",
+    "custom": "Мелка — Глыбока",
     "en": "Shallow — Deep",
     "ru": "Мелко — Глубоко",
-    "bel": "Дробна — Глыбока",
+    "bel": "Мелка — Глыбока",
     "bel_alt": "Неглыбокі — Глыбокі"
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Discreet",
-    "custom": "",
+    "custom": "Скрытны",
     "en": "Discreet",
     "ru": "Скрытный",
     "bel": "Падступны",
@@ -417,7 +417,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Down",
-    "custom": "",
+    "custom": "Уніз — Уверх",
     "en": "Down — Up",
     "ru": "Вниз — Вверх",
     "bel": "Уніз — Уверх",
@@ -425,7 +425,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Drawn",
-    "custom": "",
+    "custom": "Нацягнуты — Зморшчаны",
     "en": "Drawn — Pursed",
     "ru": "Нахмуренные — Поджатые",
     "bel": "Нахмураныя — Падціснутыя",
@@ -433,7 +433,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_EyeColor",
-    "custom": "",
+    "custom": "Колер вачэй",
     "en": "Eye Color",
     "ru": "Цвет глаз",
     "bel": "Колер вачэй",
@@ -441,7 +441,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_EyebrowsColor",
-    "custom": "",
+    "custom": "Колер броваў",
     "en": "Eyebrows Color",
     "ru": "Цвет бровей",
     "bel": "Колер броваў",
@@ -449,7 +449,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_EyelinerLight",
-    "custom": "",
+    "custom": "Падводка для вачэй - Светлая",
     "en": "Eyeliner - Light",
     "ru": "Подводка для глаз - Светлая",
     "bel": "Падводка для вачэй - Светлая",
@@ -457,7 +457,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_EyelinerTone",
-    "custom": "",
+    "custom": "Колер ценяў для павекаў",
     "en": "Eyeshadow Color",
     "ru": "Цвет теней для век",
     "bel": "Колер ценяў для стагоддзе",
@@ -465,7 +465,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Flat",
-    "custom": "",
+    "custom": "Плоскі — Завостраны",
     "en": "Flat — Pointed",
     "ru": "Плоский — Заострённый",
     "bel": "Плоскі — Завостраны",
@@ -473,7 +473,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Flushed",
-    "custom": "",
+    "custom": "Змыла",
     "en": "Flushed",
     "ru": "Смыло",
     "bel": "Змыла",
@@ -481,7 +481,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_ForeheadsellionnoseRatio",
-    "custom": "",
+    "custom": "Лоб | Пераноссе | Нос",
     "en": "Forehead | Sellion | Nose",
     "ru": "Лоб | Переносица | Нос",
     "bel": "Ло́б | Пераноссіца | Нос",
@@ -489,7 +489,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Forward",
-    "custom": "",
+    "custom": "Наперад",
     "en": "Forward",
     "ru": "Вперёд",
     "bel": "Наперад",
@@ -497,7 +497,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Freckles",
-    "custom": "",
+    "custom": "Вяснушкі",
     "en": "Freckles",
     "ru": "Веснушки",
     "bel": "Вяснушкі",
@@ -505,7 +505,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Gaunt",
-    "custom": "",
+    "custom": "Змучаны — Круглы",
     "en": "Gaunt — Round",
     "ru": "Измождённый — Круглый",
     "bel": "Змучаны — Круглы",
@@ -513,7 +513,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_GradientAmount",
-    "custom": "",
+    "custom": "Ступень градыенту",
     "en": "Gradient Amount",
     "ru": "Степень градиента",
     "bel": "Ступень градыенту",
@@ -521,7 +521,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_GradientContrast",
-    "custom": "",
+    "custom": "Градыентны Кантраст",
     "en": "Gradient Contrast",
     "ru": "Градиентный Контраст",
     "bel": "Градыентны Кантраст",
@@ -553,7 +553,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_High",
-    "custom": "",
+    "custom": "Высока",
     "en": "High",
     "ru": "Высоко",
     "bel": "Высока",
@@ -561,7 +561,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Inflated",
-    "custom": "",
+    "custom": "Надзьмуты",
     "en": "Inflated",
     "ru": "Раздутый",
     "bel": "Надзьмуты",
@@ -569,15 +569,15 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_InnerRidgeDown",
-    "custom": "",
+    "custom": "Унутраны Хрыбет | Уніз — Уверх",
     "en": "Inner Ridge | Down — Up",
     "ru": "Внутренний Хребет | Вниз — Вверх",
-    "bel": "Унутраны Хрыбет | Уніз — Уверх",
+    "bel": "Унутраны хрыбет | Уніз — Уверх",
     "bel_alt": "Унутраны грэбень | Уніз — Уверх"
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_InwardTilt",
-    "custom": "",
+    "custom": "Нахіл Унутр — Нахіл Вонкі",
     "en": "Inward Tilt — Outward Tilt",
     "ru": "Наклон Внутрь — Наклон Наружу",
     "bel": "Нахіл Унутр — Нахіл Вонкі",
@@ -585,7 +585,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_JawlineConcave",
-    "custom": "",
+    "custom": "Лінія сківіцы | Увагнутая — Выпуклая",
     "en": "Jawline | Concave — Convex",
     "ru": "Линия челюсти | Вогнутая — Выпуклая",
     "bel": "Лінія сківіцы | Увагнутая — Выпуклая",
@@ -593,7 +593,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_JawneckSlopeLow",
-    "custom": "",
+    "custom": "Нахіл сківіцы і шыі | Нізкі — Высокі",
     "en": "Jaw-Neck Slope | Low — High",
     "ru": "Наклон челюсти и шеи | Низкий — Высокий",
     "bel": "Нахіл сківіцы і шыі | Нізкі — Высокі",
@@ -601,7 +601,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Jutting",
-    "custom": "",
+    "custom": "Выступаючы",
     "en": "Jutting",
     "ru": "Выступающий",
     "bel": "Выступаючы",
@@ -609,7 +609,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Large",
-    "custom": "",
+    "custom": "Вялікі",
     "en": "Large",
     "ru": "Большой",
     "bel": "Вялікі",
@@ -617,7 +617,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Light",
-    "custom": "",
+    "custom": "Лёгкі — Цяжкі",
     "en": "Light — Heavy",
     "ru": "Легкий — Тяжелый",
     "bel": "Лёгкі — Цяжкі",
@@ -625,7 +625,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipsDeflated",
-    "custom": "",
+    "custom": "Здзіманы — Надзіманы",
     "en": "Deflated — Inflated",
     "ru": "Сдутый — Надутый",
     "bel": "Здзіманы — Надзіманы",
@@ -633,7 +633,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipsRetracted",
-    "custom": "",
+    "custom": "Уцягнуты — Зморшчаны",
     "en": "Retracted — Puckered",
     "ru": "Губы - втянутые",
     "bel": "Вусны - уцягнутыя",
@@ -641,7 +641,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipsSmall",
-    "custom": "",
+    "custom": "Вусны - Маленькія",
     "en": "Lips - Small",
     "ru": "Губы - Маленькие",
     "bel": "Вусны - Маленькія",
@@ -649,7 +649,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipstickAmount",
-    "custom": "",
+    "custom": "Колькасць памады",
     "en": "Lipstick Amount",
     "ru": "Количество помады",
     "bel": "Колькасць памады",
@@ -657,7 +657,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipstickColor",
-    "custom": "",
+    "custom": "Колер памады",
     "en": "Lipstick Color",
     "ru": "Цвет помады",
     "bel": "Колер памады",
@@ -665,7 +665,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipstickOpaque",
-    "custom": "",
+    "custom": "Непразрысты",
     "en": "Opaque",
     "ru": "Непрозрачный",
     "bel": "Непразрысты",
@@ -673,7 +673,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LipstickSheer",
-    "custom": "",
+    "custom": "Памада | Празрыстая — Непразрыстая",
     "en": "Lipstick | Sheer — Opaque",
     "ru": "Губная помада | От полупрозрачной до плотной",
     "bel": "Губная памада | Ад напаўпразрыстай да шчыльнай",
@@ -681,7 +681,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Long",
-    "custom": "",
+    "custom": "Кароткі — Доўгі",
     "en": "Short — Long",
     "ru": "Короткий — Длинный",
     "bel": "Кароткі — Доўгі",
@@ -689,7 +689,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Low",
-    "custom": "",
+    "custom": "Ад нізкага — да высокага.",
     "en": "Low — High",
     "ru": "От низкого — к высокому.",
     "bel": "Ад нізкага — да высокага.",
@@ -697,7 +697,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_LowerSellionShallow",
-    "custom": "",
+    "custom": "Ніжняе пераноссе | Неглыбокае — Глыбокае",
     "en": "Lower Sellion | Shallow — Deep",
     "ru": "Нижний Селлион | Мелководье — Глубина",
     "bel": "Ніжні Селіён | Плыткаводдзе — Глыбіня",
@@ -705,7 +705,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_MainColor",
-    "custom": "",
+    "custom": "Асноўны колер",
     "en": "Main Color",
     "ru": "Основной цвет",
     "bel": "Асноўны колер",
@@ -721,7 +721,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_MouthchinDistanceShort",
-    "custom": "",
+    "custom": "Адлегласць паміж ротам і падбароддзем | Кароткая — Доўгая",
     "en": "Mouth-Chin Distance | Short — Long",
     "ru": "Расстояние от рта до подбородка | Короткое — Длинное",
     "bel": "Адлегласць ад рота да падбародка | Кароткае — Доўгае",
@@ -737,7 +737,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_NostrilsThin",
-    "custom": "",
+    "custom": "Ноздры - Тонкія",
     "en": "Nostrils - Thin",
     "ru": "Ноздри - Тонкие",
     "bel": "Ноздры - Тонкія",
@@ -745,7 +745,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_NostrilsTiltDown",
-    "custom": "",
+    "custom": "Ноздры Нахілены - Уніз",
     "en": "Nostrils Tilt - Down",
     "ru": "Ноздри Наклонены - Вниз",
     "bel": "Ноздры Нахілены - Уніз",
@@ -761,7 +761,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_OuterRidgeDown",
-    "custom": "",
+    "custom": "Знешні хрыбет | Уніз — Уверх",
     "en": "Outer Ridge | Down — Up",
     "ru": "Внешний хребет | Вниз — Вверх",
     "bel": "Знешні хрыбет | Уніз — Уверх",
@@ -769,7 +769,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_OutwardTilt",
-    "custom": "",
+    "custom": "Нахіл Вонкі",
     "en": "Outward Tilt",
     "ru": "Наклон Наружу",
     "bel": "Нахіл Вонкі",
@@ -777,7 +777,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Overbite",
-    "custom": "",
+    "custom": "Прыкус",
     "en": "Overbite",
     "ru": "Прогения",
     "bel": "Прагенія",
@@ -785,7 +785,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Pale",
-    "custom": "",
+    "custom": "Павекі | Бледныя — Чырвоныя",
     "en": "Eyelids | Pale — Red",
     "ru": "Веки | Бледно-красные",
     "bel": "Павекі | Бледна-чырвоныя",
@@ -809,7 +809,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Pronounced",
-    "custom": "",
+    "custom": "Выразны",
     "en": "Pronounced",
     "ru": "Произносится",
     "bel": "Вымаўляецца",
@@ -817,7 +817,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Protruding",
-    "custom": "",
+    "custom": "Уцягнута — Высунута",
     "en": "Retracted — Protruding",
     "ru": "Втянуто — Выдвинуто",
     "bel": "Уцягнута — Высунута",
@@ -833,7 +833,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Pursed",
-    "custom": "",
+    "custom": "Падціснутыя",
     "en": "Pursed",
     "ru": "Поджатые",
     "bel": "Падціснутыя",
@@ -841,7 +841,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Recessed",
-    "custom": "",
+    "custom": "Паглыблены — Ярка выражаны",
     "en": "Recessed — Pronounced",
     "ru": "Углублённый — Ярко выраженный",
     "bel": "Паглыблены — Ярка выражаны",
@@ -857,7 +857,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_RegionConcage",
-    "custom": "",
+    "custom": "Рэгіён | Увагнуты — Выпуклы",
     "en": "Region | Concave — Convex",
     "ru": "Регион | Вогнутый — Выпуклый",
     "bel": "Рэгіён | Увагнуты — Выпуклы",
@@ -865,7 +865,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Retracted",
-    "custom": "",
+    "custom": "Уцягнуты — Выступаючы",
     "en": "Retracted — Jutting",
     "ru": "Втянутый — Выступающий",
     "bel": "Уцягнуты — Выступаючы",
@@ -897,7 +897,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Salt&Pepper",
-    "custom": "",
+    "custom": "Соль ды перац.",
     "en": "Salt and Pepper",
     "ru": "Соль да перец.",
     "bel": "Соль ды перац.",
@@ -905,7 +905,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SellionDown",
-    "custom": "",
+    "custom": "Пераноссе - Уніз",
     "en": "Sellion - Down",
     "ru": "Sellion - Вниз",
     "bel": "Sellion - Уніз",
@@ -913,7 +913,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SellionShallow",
-    "custom": "",
+    "custom": "Пераноссе - Неглыбокае",
     "en": "Sellion - Shallow",
     "ru": "Селлион - Мелководный",
     "bel": "Селіён - Плыткі",
@@ -921,7 +921,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SellionShin",
-    "custom": "",
+    "custom": "Пераноссе - Тонкае",
     "en": "Sellion - Thin",
     "ru": "Селлион - Тонкий",
     "bel": "Селіён - Тонкі",
@@ -929,7 +929,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_Shallow",
-    "custom": "",
+    "custom": "Неглыбокі — Выразны",
     "en": "Shallow — Pronounced",
     "ru": "Мелкий — Произносится",
     "bel": "Дробны — Вымаўляецца",
@@ -969,7 +969,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SocketBright",
-    "custom": "",
+    "custom": "Вачніцы | Яркі — Збіты",
     "en": "Sockets | Bright — Bruised",
     "ru": "Гнёзда | Сияющий — Побитый",
     "bel": "Гнёзды | Ззяючы — Збіты",
@@ -977,7 +977,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_SliderInfo_SocketLight",
-    "custom": "",
+    "custom": "Вачніцы - Яркія",
     "en": "Socket - Light",
     "ru": "Гнездо — Свет",
     "bel": "Гняздо — Святло",
@@ -1089,7 +1089,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_CharacterCreation_Tab_Growths",
-    "custom": "",
+    "custom": "Нарасты",
     "en": "Growths",
     "ru": "Разрастания",
     "bel": "Разрастанні",
@@ -1185,7 +1185,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_ClassSelection_BodyText_SelectOrCreate",
-    "custom": "",
+    "custom": "Выберыце клас або стварыце свой клас",
     "en": "Select a class or create a custom class",
     "ru": "Выберите класс или создайте свой собственный.",
     "bel": "Выберыце клас або стварыце свой уласны.",
@@ -1313,7 +1313,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_BodyText_NoEffectsYet",
-    "custom": "",
+    "custom": "Вы яшчэ не дадалі ніякіх эфектаў.",
     "en": "You haven't added any effects yet.",
     "ru": "Вы ещё не добавили никаких эффектов.",
     "bel": "Вы яшчэ не дадалі ніякіх эфектаў.",
@@ -1329,7 +1329,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Enchantment_BodyText_SelectSoulGear",
-    "custom": "",
+    "custom": "Спачатку трэба выбраць рыштунак і камень душы.",
     "en": "You need to select a Gear and a Soul Gem first.",
     "ru": "Сначала вам нужно выбрать Снаряжение и Камень Души.",
     "bel": "Спачатку вам трэба выбраць рыштунак і Камень Душы.",
@@ -1433,7 +1433,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Header_Tab_Help",
-    "custom": "",
+    "custom": "Дапамога",
     "en": "Help",
     "ru": "Помощь",
     "bel": "Дапамога",
@@ -1489,7 +1489,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Inventory_BodyText_AlchemyApparatus",
-    "custom": "",
+    "custom": "Алхімічны апарат",
     "en": "Alchemy Apparatus",
     "ru": "Алхимический аппарат",
     "bel": "Алхімічны апарат",
@@ -1497,7 +1497,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Inventory_BodyText_DefensiveEffect",
-    "custom": "",
+    "custom": "Ахоўны эфект",
     "en": "Defensive Effect",
     "ru": "Защитный эффект",
     "bel": "Ахоўны эфект",
@@ -1505,7 +1505,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Inventory_BodyText_OffensiveEffect",
-    "custom": "",
+    "custom": "Атакуючы эфект",
     "en": "Offensive Effect",
     "ru": "Наступательный эффект",
     "bel": "Наступальны эфект",
@@ -1553,7 +1553,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_BodyText_CanOnlyBeCastOnce",
-    "custom": "",
+    "custom": "Можна выкарыстоўваць толькі адзін раз.",
     "en": "Can only be cast once",
     "ru": "Можно использовать только один раз.",
     "bel": "Можна выкарыстоўваць толькі адзін раз.",
@@ -1561,7 +1561,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_BodyText_CanOnlyBeCastOnceADay",
-    "custom": "",
+    "custom": "Можна выкарыстоўваць толькі адзін раз у дзень",
     "en": "Can only be cast once a day",
     "ru": "Можно использовать только раз в день.",
     "bel": "Можна выкарыстоўваць толькі раз у дзень.",
@@ -1569,7 +1569,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_BodyText_ImmuneToSilence",
-    "custom": "",
+    "custom": "Імунітэт да маўчання.",
     "en": "Immune To Silence",
     "ru": "Иммунитет к безмолвию.",
     "bel": "Імунітэт да маўчання.",
@@ -1593,15 +1593,15 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_GlobalDetails_SpellEffectiveness",
-    "custom": "",
+    "custom": "Абмежавана <RT_BrownDarkMed>95%</> калі на вас надзета браня. Можа быць яшчэ менш за ўзровень <RT_BrownDarkMed>Падмайстар</><cf>Бягучая браня:",
     "en": "Limited to <RT_BrownDarkMed>95%</> if you are wearing armor. Can be even less below <RT_BrownDarkMed>Journeyman</> level<lf>Current armor:",
     "ru": "Ограничено <RT_BrownDarkMed>95%</> если на вас надета броня. Может быть ещё меньше на уровне ниже <RT_BrownDarkMed>Подмастерье</><lf>Текущая броня:",
-    "bel": "Абмежавана <RT_BrownDarkMed>95%</>, калі на вас надзета броня. Можа быць яшчэ менш на ўзроўні ніжэй <RT_BrownDarkMed>Падмайстар</><lf>Бягучая броня:",
+    "bel": "Абмежавана <RT_BrownDarkMed>95%</> калі на вас надзета броня. Можа быць яшчэ менш на ўзроўні ніжэй <RT_BrownDarkMed>Падмайстар</><lf>Бягучая броня:",
     "bel_alt": "Абмежавана <RT_BrownDarkMed>95%</> калі на вас надзета браня. Можа быць яшчэ менш за ўзровень <RT_BrownDarkMed>Падмайстар</><cf>Бягучая браня:"
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_HeavyDetails_SpellEffectiveness",
-    "custom": "",
+    "custom": "{Count} {Count}|plural(one=цяжкі элемент, other=цяжкіх элементаў) - <RT_BrownDarkMed>{Level} -{Modifier}%</>",
     "en": "{Count} {Count}|plural(one=heavy piece ,other=heavy pieces )- <RT_BrownDarkMed>{Level} -{Modifier}%</>",
     "ru": "{Count} {Count}|plural(one=тяжёлая штука, other=тяжёлых штук) - <RT_BrownDarkMed>{Level} -{Modifier}%</>",
     "bel": "{Count} {Count}|plural(one=цяжкая штука, other=цяжкіх штук) - <RT_BrownDarkMed>{Level} -{Modifier}%</>",
@@ -1609,11 +1609,11 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_LightDetails_SpellEffectiveness",
-    "custom": "",
+    "custom": "{Count} {Count}|plural(one=лёгкі элемент, other=лёгкіх элементаў) - <RT_BrownDarkMed>{Level} -{Modifier}%</>",
     "en": "{Count} {Count}|plural(one=light piece ,other=light pieces )- <RT_BrownDarkMed>{Level} -{Modifier}%</>",
     "ru": "{Count} {Count}|plural(one=светлая деталь, other=светлых деталей) - <RT_BrownDarkMed>{Level} -{Modifier}%</>",
     "bel": "{Count} {Count}|plural(one=светлая дэталь, other=светлых дэталяў) - <RT_BrownDarkMed>{Level} -{Modifier}%</>",
-    "bel_alt": " {Count} {Count}|plural(one=лёгкі кавалак ,other=лёгкія кавалкі )- <RT_BrownDarkMed>{Level} -{Modifier}%"
+    "bel_alt": "{Count} {Count}|plural(one=лёгкі кавалак ,other=лёгкія кавалкі )- <RT_BrownDarkMed>{Level} -{Modifier}%"
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_Cost",
@@ -1633,7 +1633,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_GreaterPower",
-    "custom": "",
+    "custom": "Вялікая Сіла",
     "en": "Greater Power",
     "ru": "Великая Сила",
     "bel": "Вялікая Сіла",
@@ -1641,7 +1641,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_LesserPower",
-    "custom": "",
+    "custom": "Малая сіла",
     "en": "Lesser Power",
     "ru": "Меньшая сила",
     "bel": "Меншая сіла",
@@ -1657,7 +1657,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Magic_Title_Special",
-    "custom": "",
+    "custom": "Спецыяльны",
     "en": "Special",
     "ru": "Особенный",
     "bel": "Асаблівы",
@@ -1833,7 +1833,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Onboarding_Title_Gameplay",
-    "custom": "",
+    "custom": "Геймплэй",
     "en": "Gameplay",
     "ru": "Геймплей",
     "bel": "Геймплэй",
@@ -1857,7 +1857,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_PSO_Precompiling_PSOLoading_ShaderDescription",
-    "custom": "",
+    "custom": "Кампіляцыя шэйдараў для аптымізацыі прадукцыйнасці падчас гульні.",
     "en": "Compiling shaders to optimize performance during gameplay.",
     "ru": "Компиляция шейдеров для оптимизации производительности во время игры.",
     "bel": "Кампіляцыя шэйдараў для аптымізацыі прадукцыйнасці падчас гульні.",
@@ -1865,7 +1865,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_PSO_Precompiling_PSOLoading_ShaderPreload",
-    "custom": "",
+    "custom": "Папярэдняя загрузка шэйдараў:",
     "en": "Shaders preloading:",
     "ru": "Предварительная загрузка шейдеров:",
     "bel": "Папярэдняя загрузка шэйдараў:",
@@ -1873,7 +1873,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_BodyText_Disposition",
-    "custom": "",
+    "custom": "Адносіны:",
     "en": "Disposition:",
     "ru": "Расположение:",
     "bel": "Размяшчэнне:",
@@ -1889,7 +1889,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Persuasion_Button_Start",
-    "custom": "",
+    "custom": "Пачаць",
     "en": "Start",
     "ru": "Начать",
     "bel": "Пачаць",
@@ -1929,7 +1929,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Quests_QuestLog_Quest_MSShadowscale_STAGE200",
-    "custom": "",
+    "custom": "Тэйнаава мёртвы, таму я ніколі не змагу завяршыць яго місію - аддаць яму сэрца адступніка Цёмных яшчарыц па мянушцы Хвост са Шнарам",
     "en": "Teinaava is dead, thus I will never be able to complete his mission to give him the heart of the renegade Shadowscale Scar-Tail.",
     "ru": "Teinaava мёртв, таким образом я никогда не смогу выполнить его миссию, чтобы отдать ему сердце отступника Shadowscale по кличке Scar-Tail.",
     "bel": "Teinaava мёртвы, такім чынам я ніколі не змагу выканаць яго місію, каб аддаць яму сэрца адступніка Shadowscale па мянушцы Scar-Tail.",
@@ -2145,7 +2145,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Trading_Button_Haggle",
-    "custom": "",
+    "custom": "Гандлявацца",
     "en": "Haggle",
     "ru": "Торговаться",
     "bel": "Гандлявацца",
@@ -2153,7 +2153,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Trading_Info_Disposition",
-    "custom": "",
+    "custom": "Адносіны:",
     "en": "Disposition:",
     "ru": "Расположение:",
     "bel": "Размяшчэнне:",
@@ -2161,7 +2161,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AS_Trading_Info_MercantileSkill",
-    "custom": "",
+    "custom": "Гандлёвы навык:",
     "en": "Mercantile Skill:",
     "ru": "Торговый навык:",
     "bel": "Гандлёвы навык:",
