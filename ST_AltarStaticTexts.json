@@ -9,7 +9,7 @@
   },
   {
     "key": "ST_AltarStaticTexts/LOC_AD_HUD_BodyText_DoorToDestination",
-    "custom": "{DoorName} у {DestinationName}",
+    "custom": "{DoorName}, {DestinationName}",
     "en": "{DoorName} to {DestinationName}",
     "ru": "{DoorName} в {DestinationName}",
     "bel": "{DoorName} у {DestinationName}",
