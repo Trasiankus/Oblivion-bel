@@ -6001,7 +6001,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_SaveLoad_Info_ManualSaveName",
-    "custom": "",
+    "custom": "Захаванне",
     "en": "Save",
     "ru": "Сохранить",
     "bel": "Захаваць",

@@ -425,7 +425,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameConjuration",
-    "custom": "Выклік",
+    "custom": "Выкліканне",
     "en": "Conjuration",
     "ru": "Призыв",
     "bel": "Прызыў",
@@ -449,7 +449,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameHeavyArmor",
-    "custom": "",
+    "custom": "Цяжкая браня",
     "en": "Heavy Armor",
     "ru": "Тяжёлая броня",
     "bel": "Цяжкая браня",
@@ -457,7 +457,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_ActorValue_sSkillNameIllusion",
-    "custom": "",
+    "custom": "Ілюзія",
     "en": "Illusion",
     "ru": "Иллюзия",
     "bel": "Ілюзія",
@@ -993,7 +993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolAlteration",
-    "custom": "Змена",
+    "custom": "Змяненне",
     "en": "Alteration",
     "ru": "Изменение",
     "bel": "Змена",
@@ -1001,7 +1001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolConjuration",
-    "custom": "Выклік",
+    "custom": "Выкліканне",
     "en": "Conjuration",
     "ru": "Колдовство",
     "bel": "Вядзьмарства",
@@ -1033,7 +1033,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicSchoolRestoration",
-    "custom": "",
+    "custom": "Аднаўленне",
     "en": "Restoration",
     "ru": "Восстановление",
     "bel": "Аднаўленне",
@@ -1041,7 +1041,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypeAbility",
-    "custom": "",
+    "custom": "Здольнасць",
     "en": "Ability",
     "ru": "Способность",
     "bel": "Здольнасць",
@@ -1049,7 +1049,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MagicSystem_sMagicTypeDisease",
-    "custom": "",
+    "custom": "Хвароба",
     "en": "Disease",
     "ru": "Болезнь",
     "bel": "Хвароба",
@@ -2897,7 +2897,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sLevelPopUpText",
-    "custom": "",
+    "custom": "Каб павысіць узровень, <RT_BlueMed>адпачніце</> пасля таго, як дастаткова павысілі свае навыкі.",
     "en": "To level up, <RT_BlueMed>take a rest</> after you’ve increased your skills enough.",
     "ru": "Чтобы <RT_BlueMed>прокачаться</>, отдохни после того, как достаточно улучшишь свои навыки.",
     "bel": "Каб <RT_BlueMed>прапампаваць</>, адпачні пасля таго, як дастаткова палепшыш свае навыкі.",
@@ -3401,7 +3401,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscActiveQuests",
-    "custom": "",
+    "custom": "Актыўныя заданні",
     "en": "Active Quests",
     "ru": "Активные Квесты",
     "bel": "Актыўныя Квэсты",
@@ -3409,7 +3409,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscApprenticeSkills",
-    "custom": "",
+    "custom": "Навыки вучня",
     "en": "Apprentice Skills",
     "ru": "Навыки подмастерья",
     "bel": "Навыкі падмайстра",
@@ -3473,7 +3473,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscExpertSkills",
-    "custom": "",
+    "custom": "Навыкі эксперта",
     "en": "Expert Skills",
     "ru": "Экспертные навыки",
     "bel": "Экспертныя навыкі",
@@ -3481,7 +3481,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscFame",
-    "custom": "",
+    "custom": "Слава",
     "en": "Fame",
     "ru": "Слава",
     "bel": "Слава",
@@ -3489,7 +3489,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscGameDaysPlayed",
-    "custom": "",
+    "custom": "Прайшло дзён",
     "en": "Days Passed",
     "ru": "Дней Прошло",
     "bel": "Дзён Мінула",
@@ -3561,7 +3561,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscJourneymanSkills",
-    "custom": "",
+    "custom": "Навыкі падмайстра",
     "en": "Journeyman Skills",
     "ru": "Навыки подмастерья",
     "bel": "Навыкі падмайстра",
@@ -3769,7 +3769,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sMiscSkillAdvances",
-    "custom": "",
+    "custom": "Навыкаў павышана",
     "en": "Skill Increases",
     "ru": "Увеличение навыков",
     "bel": "Павелічэнне навыкаў",
@@ -3993,7 +3993,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNewGame",
-    "custom": "",
+    "custom": "Новая гульня",
     "en": "New Game",
     "ru": "Новая игра",
     "bel": "Новая гульня",
@@ -4001,7 +4001,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sNo",
-    "custom": "",
+    "custom": "Не",
     "en": "No",
     "ru": "Нет.",
     "bel": "Не.",
@@ -5961,7 +5961,7 @@
   },
   {
     "key": "ST_HardcodedContent/LOC_HC_MenuGamesettings_sYes",
-    "custom": "",
+    "custom": "Так",
     "en": "Yes",
     "ru": "Да.",
     "bel": "Так.",
