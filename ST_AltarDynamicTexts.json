@@ -2873,7 +2873,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Info_CompassEast",
-    "custom": "",
+    "custom": "E",
     "en": "E",
     "ru": "В",
     "bel": "У",
@@ -2881,7 +2881,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Info_CompassNorth",
-    "custom": "",
+    "custom": "N",
     "en": "N",
     "ru": "С",
     "bel": "С",
@@ -2889,7 +2889,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Info_CompassSouth",
-    "custom": "",
+    "custom": "S",
     "en": "S",
     "ru": "Ю",
     "bel": "Ю",
@@ -2897,7 +2897,7 @@
   },
   {
     "key": "ST_AltarDynamicTexts/LOC_AD_HUD_Info_CompassWest",
-    "custom": "",
+    "custom": "W",
     "en": "W",
     "ru": "З",
     "bel": "З",
