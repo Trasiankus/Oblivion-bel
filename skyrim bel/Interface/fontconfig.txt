@@ -1,0 +1,28 @@
+fontlib "Interface\fonts_console.swf"
+fontlib "Interface\fonts_en.swf"
+fontlib "Interface\mycustomfont.swf"
+fontlib "Interface\mybookfont.swf"
+fontlib "Interface\myadditionalfont.swf"
+fontlib "Interface\myhandwrittenfont.swf"
+fontlib "Interface\myhandwrittenboldfont.swf"
+map "$ConsoleFont" = "Consolas" Normal
+map "$StartMenuFont" = "a_BosaNovaCps" Normal
+map "$DialogueFont" = "a_BosaNovaCps" Normal
+map "$EverywhereFont" = "a_BosaNovaCps" Normal
+map "$EverywhereBoldFont" = "Blazma" Normal
+map "$EverywhereMediumFont" = "a_BosaNovaCps" Normal
+map "$DragonFont" = "Dragon_script" Normal
+map "$SkyrimBooks" = "Sweet Mavka Script" Normal
+map "$HandwrittenFont" = "Jikharev" Normal
+map "$HandwrittenBold" = "Blink Script" Normal
+map "$FalmerFont" = "Falmer" Normal
+map "$DwemerFont" = "Dwemer" Normal
+map "$DaedricFont" = "Daedric" Normal
+map "$MageScriptFont" = "Mage Script" Normal
+map "$SkyrimSymbolsFont" = "SkyrimSymbols" Normal
+map "$SkyrimBooks_UnreadableFont" = "SkyrimBooks_Unreadable" Normal
+map "$CClub_Font" = "a_BosaNovaCps" Roman
+map "$CClub_Font_Bold" = "a_BosaNovaCps" Demi
+map "ControllerButtons" = "Controller  Buttons" Normal
+map "ControllerButtonsInverted" = "Controller  Buttons inverted" Normal
+validNameChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|ЎўЈ¤Ґ¦§Ё©Є«®Ї°Ііґ¶·ё№є»јЅѕїДАБВГЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэю я "

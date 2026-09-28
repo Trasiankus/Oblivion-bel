@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+scripts/case_freq.json
+scripts/step2_results.json
